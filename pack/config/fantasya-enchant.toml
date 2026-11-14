@@ -1,0 +1,8 @@
+#Visible effects of the Fantasya enchantments (swing and hit particles, arrow trails, runes). Turn off for pure game effects.
+visualEffects = true
+#Multiplier for the number of effect particles (0.3 = few, 1 = normal, 2 = lots)
+# Default: 1.0
+# Range: 0.0 ~ 2.0
+particleDensity = 1.0
+#Ore Sense shows runes at hidden ores nearby (needs visualEffects)
+oreRunes = true

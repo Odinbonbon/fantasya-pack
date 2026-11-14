@@ -1,0 +1,8 @@
+name = "friends-and-foes-forge-2Dkypz1U"
+filename = "friends-and-foes-forge-2Dkypz1U.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BOCJKD49/versions/2Dkypz1U/friendsandfoes-neoforge-5.0.3%2Bmc26.3.jar"
+hash-format = "sha512"
+hash = "f87cd665ab4207ca94d4682f8a35106a0e46476ab38c4f15bcd3cd94aac5f2139b2fb4c274c5388dd073ea6de33e7975b7252e140171f7412505a01ecf38c1dc"

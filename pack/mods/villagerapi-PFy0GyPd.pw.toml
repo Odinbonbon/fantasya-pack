@@ -1,0 +1,8 @@
+name = "villagerapi-PFy0GyPd"
+filename = "villagerapi-PFy0GyPd.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9Tp2Becg/versions/PFy0GyPd/Villager-API-26.3-neoforge-1.26.9.6.jar"
+hash-format = "sha512"
+hash = "6637acca882a16b3fd17f0b4c9d0b75cecb6eb80eb1d7262e9ba63321b397f3467f2b4bea4787070d293e6a326b1b8f5f7ee5461a5b0d605b07ddb05b77e0a38"

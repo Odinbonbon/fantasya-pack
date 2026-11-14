@@ -1,0 +1,8 @@
+name = "mutant-monsters-SQwETSCo"
+filename = "mutant-monsters-SQwETSCo.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/derP0ten/versions/SQwETSCo/mutantmonsters-v26.3.1-mc26.3.x%2Bneoforge.jar"
+hash-format = "sha512"
+hash = "d91c6b8bed32160f4352fda98aedbdd956dca5d1aec2c48f78604a3d5287ea0c584f9ca56fcd96912e720bc6c26bb9ce621b6cbab0a9706f81bed502532fadfb"

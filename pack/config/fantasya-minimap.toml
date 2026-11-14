@@ -1,0 +1,13 @@
+#Compass map: a small round map in the corner while a Waypoint Compass is in the inventory (key N switches it too)
+compassMap = true
+#Blocks from the middle of the map to its rim (64 = one map pixel per block)
+# Default: 64
+# Range: 32 ~ 256
+compassMapRange = 64
+#Diameter of the map on screen (in GUI pixels)
+# Default: 80
+# Range: 48 ~ 160
+compassMapSize = 80
+#Corner of the screen the map sits in
+#Allowed Values: TOP_RIGHT, TOP_LEFT, BOTTOM_RIGHT, BOTTOM_LEFT
+compassMapCorner = "TOP_LEFT"

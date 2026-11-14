@@ -1,0 +1,153 @@
+{
+	"bs_elfenhaus": {
+		"salt": 4410001,
+		"separation": 12,
+		"spacing": 28
+	},
+	"bs_frosthuette": {
+		"salt": 4410010,
+		"separation": 10,
+		"spacing": 26
+	},
+	"bs_kristallturm": {
+		"salt": 4410004,
+		"separation": 14,
+		"spacing": 36
+	},
+	"bs_pilzhuette": {
+		"salt": 4410003,
+		"separation": 9,
+		"spacing": 22
+	},
+	"bs_ruine": {
+		"salt": 4410007,
+		"separation": 10,
+		"spacing": 26
+	},
+	"bs_schrein": {
+		"salt": 4410009,
+		"separation": 16,
+		"spacing": 40
+	},
+	"bs_taverne": {
+		"salt": 4410008,
+		"separation": 20,
+		"spacing": 50
+	},
+	"bs_wachturm": {
+		"salt": 4410006,
+		"separation": 14,
+		"spacing": 34
+	},
+	"bs_waldhuette": {
+		"salt": 4410005,
+		"separation": 10,
+		"spacing": 26
+	},
+	"bs_zwergenhaus": {
+		"salt": 4410002,
+		"separation": 12,
+		"spacing": 30
+	},
+	"crystal_archive": {
+		"salt": 3310070,
+		"separation": 8,
+		"spacing": 22
+	},
+	"crystal_mine": {
+		"salt": 3310024,
+		"separation": 6,
+		"spacing": 16
+	},
+	"elder_castle": {
+		"salt": 3310071,
+		"separation": 12,
+		"spacing": 34
+	},
+	"mushroom_dungeon": {
+		"salt": 3310023,
+		"separation": 6,
+		"spacing": 16
+	},
+	"ruin_crystal": {
+		"salt": 3310033,
+		"separation": 4,
+		"spacing": 12
+	},
+	"ruin_lush": {
+		"salt": 3310030,
+		"separation": 4,
+		"spacing": 12
+	},
+	"ruin_shroom": {
+		"salt": 3310034,
+		"separation": 4,
+		"spacing": 12
+	},
+	"ruin_volcanic": {
+		"salt": 3310032,
+		"separation": 4,
+		"spacing": 12
+	},
+	"ruin_wood": {
+		"salt": 3310031,
+		"separation": 4,
+		"spacing": 12
+	},
+	"sculk_sunken": {
+		"salt": 3310042,
+		"separation": 5,
+		"spacing": 14
+	},
+	"sculk_tower": {
+		"salt": 3310041,
+		"separation": 5,
+		"spacing": 14
+	},
+	"sculk_village": {
+		"salt": 3310043,
+		"separation": 7,
+		"spacing": 18
+	},
+	"temple": {
+		"salt": 3310022,
+		"separation": 10,
+		"spacing": 28
+	},
+	"trader_camps": {
+		"frequency": 0.6,
+		"salt": 3310077,
+		"separation": 14,
+		"spacing": 36
+	},
+	"treehouse_dungeon": {
+		"salt": 3310021,
+		"separation": 8,
+		"spacing": 22
+	},
+	"treehouse_villages": {
+		"salt": 1847261,
+		"separation": 12,
+		"spacing": 32
+	},
+	"village_coast": {
+		"salt": 3310108,
+		"separation": 22,
+		"spacing": 56
+	},
+	"village_jungle": {
+		"salt": 3310106,
+		"separation": 18,
+		"spacing": 46
+	},
+	"villages": {
+		"salt": 3310100,
+		"separation": 10,
+		"spacing": 28
+	},
+	"wild_buildings": {
+		"salt": 3310060,
+		"separation": 6,
+		"spacing": 16
+	}
+}

@@ -1,0 +1,13 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"fantasya:warden_heart"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"fantasya:enchanting_altar"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"fantasya:anteater_claw"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"fantasya:ember_rock"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"fantasya:brook_trout"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"fantasya:frost_grass"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"fantasya:azurite_ore"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"fantasya:azurite_gem"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"fantasya:socket_station"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"fantasya:ember_cut"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

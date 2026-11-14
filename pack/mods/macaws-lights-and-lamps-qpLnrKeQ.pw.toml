@@ -1,0 +1,8 @@
+name = "macaws-lights-and-lamps-qpLnrKeQ"
+filename = "macaws-lights-and-lamps-qpLnrKeQ.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/w4an97C2/versions/qpLnrKeQ/mcw-lights-1.1.5-mc26.3neoforge.jar"
+hash-format = "sha512"
+hash = "7459538a72038ece0b5a548d89e1f607d982810d527dee9b740ecede2f61c49bd1ae8dd8ac005481ba32ee62fb60824c226734517090200e2023dc23e5e7f0c5"

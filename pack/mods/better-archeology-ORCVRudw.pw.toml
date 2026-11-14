@@ -1,0 +1,8 @@
+name = "better-archeology-ORCVRudw"
+filename = "better-archeology-ORCVRudw.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zCh7omyG/versions/ORCVRudw/betterarcheology-neoforge-26.3-1.3.9.jar"
+hash-format = "sha512"
+hash = "3433ba6082a4c45d9bc2d899efe31b47238307be89b03cb4ffeb4eae3b37d731cc219e8ab9dd21168cabdd22d9b4ad60efa4505249d289fc022006e31c837200"

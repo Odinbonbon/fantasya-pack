@@ -1,0 +1,8 @@
+name = "villagersplus-qvPocmcv"
+filename = "villagersplus-qvPocmcv.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oHGMwNDR/versions/qvPocmcv/villagersplus-neoforge-mc26.3-4.1.0.jar"
+hash-format = "sha512"
+hash = "4d98edf4fd1eee03691cfc1f79b21fa9d43ccd1df5b6a30ba7247587d38fa8ee97531b77c3fc3ff2a22815921690dabb248646aa45e2f5a9069e164d63a879d3"

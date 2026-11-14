@@ -1,0 +1,6 @@
+#Space-dependent wind, leaf and water sound that follows the surroundings (trees, water, height, time, rain)
+spatialSound = true
+#Master volume of the space-dependent sound beds
+# Default: 1.0
+# Range: 0.0 ~ 2.0
+spatialSoundVolume = 1.0

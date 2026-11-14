@@ -1,0 +1,30 @@
+#A mob must have been killed before one can turn into it
+needKill = true
+#How much of the mob's health the morph takes over: 0 = always 20 like a player, 1 = exactly the mob's health
+# Default: 0.5
+# Range: 0.0 ~ 1.0
+healthScale = 0.5
+#Multiplies the waiting time of all morph abilities
+# Default: 1.0
+# Range: 0.1 ~ 10.0
+cooldownScale = 1.0
+#Flying morphs (bats, birds, ghasts...) may fly in survival
+allowFlight = true
+#Exploding and fireballs as a morph may break blocks (if mobGriefing allows it)
+griefing = false
+#Flying as a morph also costs some hunger (the wings tire on their own: see the stamina bar)
+flightHunger = true
+#How many seconds a flying morph can stay in the air before the wings are tired
+# Default: 25
+# Range: 3 ~ 600
+flightSeconds = 25
+#Chance (0..1) that a kill unlocks the shape; the soul bottle always works (survival only, creative/commands unaffected)
+# Default: 0.25
+# Range: 0.0 ~ 1.0
+killUnlockChance = 0.25
+#After this many kills of the same kind the shape is unlocked for sure (0 = only by chance)
+# Default: 5
+# Range: 0 ~ 1000
+killsToUnlock = 5
+#Boss shapes (wither, ender dragon, warden, elder guardian) cannot be unlocked by kill or soul bottle, only with /fantasya morph unlock
+bossesCommandOnly = true

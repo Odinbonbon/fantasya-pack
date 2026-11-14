@@ -1,0 +1,8 @@
+name = "macaws-bridges-XYmXzoYz"
+filename = "macaws-bridges-XYmXzoYz.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GURcjz8O/versions/XYmXzoYz/mcw-bridges-3.1.2-mc26.3neoforge.jar"
+hash-format = "sha512"
+hash = "e2ffde5f64a09d85ef0b3a80998c41ae672968dd70ba55add2d4efcdb5ef89f4ec8611e450d52b9b15a77f4d51fb7faf770d73ef9480248f34cb7f76442a9ea9"

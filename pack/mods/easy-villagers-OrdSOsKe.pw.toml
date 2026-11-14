@@ -1,0 +1,8 @@
+name = "easy-villagers-OrdSOsKe"
+filename = "easy-villagers-OrdSOsKe.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Kaov2qgi/versions/OrdSOsKe/easy-villagers-neoforge-1.1.49%2B26.3.jar"
+hash-format = "sha512"
+hash = "acc5ac662968a9057e11ca09da70578ca36abe715fe7d3e1551d1352c46bc26e74ae8f305551428529314880dc4ad581f246eb3b5201a11ecbd8328091140f52"

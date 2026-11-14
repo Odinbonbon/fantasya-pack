@@ -1,0 +1,5 @@
+[
+  {"version":3},
+  {"ingredient":{"id":"fantasya:phoenix_flame_arrow"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"fantasya:magma_war_axe"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

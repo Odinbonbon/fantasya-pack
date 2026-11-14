@@ -1,0 +1,8 @@
+name = "puzzles-lib-b5xCcNsb"
+filename = "puzzles-lib-b5xCcNsb.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QAGBst4M/versions/b5xCcNsb/puzzleslib-v26.3.16-mc26.3.x%2Bneoforge.jar"
+hash-format = "sha512"
+hash = "a4f57b984de5ef26545b445f49bb24a99caee7b7e1afbb5bc7461681eedc985a58038355ced4df6226925c2cd9dfa13d7a8f54de41f331f3c7a38ef9a9d539a8"

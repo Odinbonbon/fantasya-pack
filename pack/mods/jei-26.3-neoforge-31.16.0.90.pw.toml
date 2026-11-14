@@ -1,0 +1,8 @@
+name = "jei-26.3-neoforge-31.16.0.90"
+filename = "jei-26.3-neoforge-31.16.0.90.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/u6dRKJwZ/versions/UGnL1gWS/jei-26.3-neoforge-31.16.0.90.jar"
+hash-format = "sha512"
+hash = "6d7623d942be813e11a0fd3915ed9e3992ebda6193fdc601eab6c6fcd9cd44bde9e2fd1351a93879d1179630837f983824006e96a1c547140fb944699fb2e07e"

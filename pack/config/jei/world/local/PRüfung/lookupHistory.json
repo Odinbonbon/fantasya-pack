@@ -1,0 +1,11 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"fantasya:socket_drill"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"fantasya:mirror_prism"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"fantasya:azurite_gem"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"fantasya:azurite_block"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"fantasya:crystal_shelf"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"fantasya:obsidian_steel_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"fantasya:volcano_shelf"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"fantasya:mushroom_shelf"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

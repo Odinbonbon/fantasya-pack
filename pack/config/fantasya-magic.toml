@@ -1,0 +1,10 @@
+#Mana gained per second (twice as much while holding a wand)
+# Default: 1.5
+# Range: 0.0 ~ 100.0
+manaPerSecond = 1.5
+#Multiplies the mana cost of all spells
+# Default: 1.0
+# Range: 0.0 ~ 10.0
+costScale = 1.0
+#Fire and frost spells may change blocks (fire, ice)
+griefing = true

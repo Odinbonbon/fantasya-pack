@@ -1,0 +1,8 @@
+name = "more-villagers-re-employed-EL1vNL62"
+filename = "more-villagers-re-employed-EL1vNL62.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1fOqTPRO/versions/EL1vNL62/MoreVillagers-Re-26.3-neoforge-1.26.9.4.jar"
+hash-format = "sha512"
+hash = "e187be567421dd8693ee36113c0932c9ee36d6a1ecc040966c584f6db29339691231d82896ca74f12466c8bf4b670a9fd7a9c4b21ad840bdf774a4edba23a5dc"

@@ -1,0 +1,28 @@
+#Master switch of the region mood (twilight colors, fog by time of day, particle effects, screen shimmer)
+atmosphere = true
+#Fog color and density change with the time of day, per region (sunset tint, thicker night fog)
+timeOfDayFog = true
+#Aurora light curtains over snowy biomes at night
+aurora = true
+#Fireflies at night in forests, meadows and swamps
+fireflies = true
+#Flat fog banks over the ground at dawn
+fogBanks = true
+#Now and then a shooting star on clear nights
+shootingStars = true
+#Rising heat shimmer above lava in volcanic regions
+heatHaze = true
+#Very faint pulsing color veil at the screen edges in the dream regions
+dreamShimmer = true
+#Multiplier for how many effect particles are spawned (0.2 = few, 1 = normal, 2 = lots)
+# Default: 1.0
+# Range: 0.0 ~ 2.0
+particleDensity = 1.0
+#Smoke columns over the craters, falling ash, lava spits and rumbling in volcanic regions
+volcanoEffects = true
+#Butterflies, small birds and dragonflies of the biome families (particles), fireflies hiding in the grass
+ambientLife = true
+#White streaks that show the storm gusts rolling over the land
+gustStreaks = true
+#Wind-blown dust in dry lands (sandstorms in thunder), drifting snow, dust devils on calm hot days
+windDust = true

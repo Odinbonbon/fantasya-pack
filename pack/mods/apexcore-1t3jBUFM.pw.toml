@@ -1,0 +1,8 @@
+name = "apexcore-1t3jBUFM"
+filename = "apexcore-1t3jBUFM.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xl3myxch/versions/1t3jBUFM/apexcore-26.3.4.jar"
+hash-format = "sha512"
+hash = "63ef9afa9131c1bf3b10dd42c00eb11bcb45f935f38687b374426cc26c6daae6d7c3aac20f9052a2802d952f63d8ac5788218b0afbf7e41ed2b904bc82fc0eae"

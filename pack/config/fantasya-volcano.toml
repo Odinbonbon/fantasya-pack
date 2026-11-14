@@ -1,0 +1,14 @@
+#Volcanoes erupt now and then (the gamerule fantasya:volcano_eruptions switches it per world)
+eruptions = true
+#Average minutes between two eruptions for a player standing in a volcanic region (shorter = more often)
+# Default: 12
+# Range: 1 ~ 600
+minutesBetweenEruptions = 12
+#Strength of an eruption: how many lava bombs fly and how far (0.2 = a few sparks, 1 = normal, 3 = devastating)
+# Default: 1.0
+# Range: 0.1 ~ 4.0
+strength = 1.0
+#Lava bombs may blow up and burn blocks you built (off: only the natural volcano ground is scorched; entities are still hurt)
+destroyBuildings = false
+#Eruptions shake the camera of nearby players (earthquake)
+earthquakeShake = true

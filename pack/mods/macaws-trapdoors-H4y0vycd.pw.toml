@@ -1,0 +1,8 @@
+name = "macaws-trapdoors-H4y0vycd"
+filename = "macaws-trapdoors-H4y0vycd.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/n2fvCDlM/versions/H4y0vycd/mcw-trapdoors-1.1.5-mc26.3neoforge.jar"
+hash-format = "sha512"
+hash = "7c7407796510f585c2493e885bbe6d8ff1f574d5eec4bcfc1c283392ee800d20241def0ff2aa371697be118d4a87847ceb2b6cd07273765027a768b3b1c2e7b5"

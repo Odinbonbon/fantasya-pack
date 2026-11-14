@@ -1,0 +1,8 @@
+name = "cooking-for-blockheads-AyGfTjV5"
+filename = "cooking-for-blockheads-AyGfTjV5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vJnhuDde/versions/AyGfTjV5/cookingforblockheads-neoforge-26.3-26.3.0.2.jar"
+hash-format = "sha512"
+hash = "11452721f42bba6c9879396bdd2c008bb0d0018cdac3d5166ac10eb88942fe9ddabe7091d18ec64b25971bd90a5da586e324670d7f73656fc699b64c18b4e962"

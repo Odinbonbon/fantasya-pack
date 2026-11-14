@@ -1,0 +1,121 @@
+{
+	"bs_elfenhaus": {
+		"bs_elfenhaus": true
+	},
+	"bs_frosthuette": {
+		"bs_frosthuette": true
+	},
+	"bs_kristallturm": {
+		"bs_kristallturm": true
+	},
+	"bs_pilzhuette": {
+		"bs_pilzhuette": true
+	},
+	"bs_ruine": {
+		"bs_ruine": true
+	},
+	"bs_schrein": {
+		"bs_schrein": true
+	},
+	"bs_taverne": {
+		"bs_taverne": true
+	},
+	"bs_wachturm": {
+		"bs_wachturm": true
+	},
+	"bs_waldhuette": {
+		"bs_waldhuette": true
+	},
+	"bs_zwergenhaus": {
+		"bs_zwergenhaus": true
+	},
+	"crystal_archive": {
+		"crystal_archive": true
+	},
+	"crystal_mine": {
+		"crystal_mine": true
+	},
+	"elder_castle": {
+		"elder_castle": true
+	},
+	"mushroom_dungeon": {
+		"mushroom_dungeon": true
+	},
+	"ruin_crystal": {
+		"ruin_crystal": true
+	},
+	"ruin_lush": {
+		"ruin_lush": true
+	},
+	"ruin_shroom": {
+		"ruin_shroom": true
+	},
+	"ruin_volcanic": {
+		"ruin_volcanic": true
+	},
+	"ruin_wood": {
+		"ruin_wood": true
+	},
+	"sculk_sunken": {
+		"sculk_sunken": true
+	},
+	"sculk_tower": {
+		"sculk_tower": true
+	},
+	"sculk_village": {
+		"sculk_village": true
+	},
+	"temple": {
+		"temple": true
+	},
+	"trader_camps": {
+		"trader_coast": true,
+		"trader_dry": true,
+		"trader_dwarf": true,
+		"trader_elf": true,
+		"trader_forest": true,
+		"trader_jungle": true,
+		"trader_mountain": true,
+		"trader_mushroom": true,
+		"trader_plains": true,
+		"trader_snow": true,
+		"trader_swamp": true,
+		"trader_taiga": true
+	},
+	"treehouse_dungeon": {
+		"treehouse_dungeon": true
+	},
+	"treehouse_villages": {
+		"treehouse_village": true
+	},
+	"village_coast": {
+		"village_coast": true
+	},
+	"village_jungle": {
+		"village_jungle": true
+	},
+	"villages": {
+		"village_dry": true,
+		"village_forest": true,
+		"village_mountain": true,
+		"village_plains": true,
+		"village_snow": true,
+		"village_swamp": true,
+		"village_taiga": true
+	},
+	"villages_unique": {
+		"village_dwarf": true,
+		"village_mushroom": true
+	},
+	"wild_buildings": {
+		"wild_coast": true,
+		"wild_dry": true,
+		"wild_forest": true,
+		"wild_jungle": true,
+		"wild_mountain": true,
+		"wild_plains": true,
+		"wild_snow": true,
+		"wild_swamp": true,
+		"wild_taiga": true
+	}
+}

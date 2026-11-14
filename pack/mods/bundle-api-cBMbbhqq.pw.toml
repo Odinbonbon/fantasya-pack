@@ -1,0 +1,8 @@
+name = "bundle-api-cBMbbhqq"
+filename = "bundle-api-cBMbbhqq.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/n8QN6Z1a/versions/cBMbbhqq/bundle-api-neoforge-5.0.0%2B26.3.jar"
+hash-format = "sha512"
+hash = "834e88860c7e8317847bebe0f0c2ecdc9470106a2484828c5b6b3a7ba8846e250a4a1bfb452249cb9c128ad850e0f7310739ab38845d0fe179aee385315db398"

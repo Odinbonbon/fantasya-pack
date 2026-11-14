@@ -1,0 +1,8 @@
+name = "armor-model-api-REEM04W7"
+filename = "armor-model-api-REEM04W7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/onz2NN2n/versions/REEM04W7/armor_model_api-neoforge-1.1.2%2B26.3.jar"
+hash-format = "sha512"
+hash = "e10fe3e6f7440da3e16d54681e973a3a6814e797ae76e5a3945490afb0bf812a9aecfe8dce2c68b7d6cac647bccaf2a05279a0ae7a1b9bf777769968e696d53b"

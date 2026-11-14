@@ -1,0 +1,8 @@
+name = "villagerstradingplus-ltf4k1E8"
+filename = "villagerstradingplus-ltf4k1E8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DhOXUfnP/versions/ltf4k1E8/villagertradingplus-neoforge-mc26.3-1.1.0.jar"
+hash-format = "sha512"
+hash = "10702be534432c3ea184514b54012b8454f980ef0e8ec9818bdcb9aebe9ec535c55261cb60738f9a5b1f1388643807d1530373f0c4a47437adec723c886a2b65"

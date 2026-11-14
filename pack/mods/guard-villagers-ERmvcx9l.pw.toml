@@ -1,0 +1,8 @@
+name = "guard-villagers-ERmvcx9l"
+filename = "guard-villagers-ERmvcx9l.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/H1sntfo8/versions/ERmvcx9l/guardvillagers-5.0.0-26.3.0.jar"
+hash-format = "sha512"
+hash = "3842d6e6a85ef47c4ac26c9302aae6047f7a572a67bf8dd8665d8f3a064ed25249557d14d4f9de6c6e1f1de51111b7620225bd0af3b773cdb39d03c4b5c2d8f5"

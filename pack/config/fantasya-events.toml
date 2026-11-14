@@ -1,0 +1,34 @@
+#Meteor showers: in some clear nights streaks cross the sky and a few meteors come down near players.
+meteorShowers = true
+#Chance per night for a meteor shower (0.12 = about every eighth night, 0 = only by command)
+# Default: 0.12
+# Range: 0.0 ~ 1.0
+meteorNightChance = 0.12
+#Meteors that really come down per shower and player (at most 6 per shower). 0 = streaks in the sky only, no craters.
+# Default: 2
+# Range: 0 ~ 6
+meteorImpacts = 2
+#Sandstorms: in deserts and badlands a wall of sand sometimes rolls over the land for a few minutes and uncovers things buried in the sand.
+sandstorms = true
+#Chance per Minecraft day for a sandstorm while a player is in a desert or badlands (0.2 = about every fifth day there, 0 = only by command)
+# Default: 0.2
+# Range: 0.0 ~ 1.0
+sandstormDayChance = 0.2
+#Things a sandstorm uncovers per player inside it (suspicious sand, buried pots, old bones). 0 = the storm only takes the sight.
+# Default: 3
+# Range: 0 ~ 8
+sandstormFinds = 3
+#Blossom rain and leaf fall: in blossoming and leafy woods the wind sometimes shakes the crowns for a few minutes - petals or colored leaves fill the air, gather on the ground and a few things drop out of the trees.
+canopyFalls = true
+#Chance per Minecraft day for a blossom rain / leaf fall while a player is in fitting woods (0.25 = about every fourth day there, 0 = only by command)
+# Default: 0.25
+# Range: 0.0 ~ 1.0
+canopyFallDayChance = 0.25
+#Things that drop out of the crowns per player inside the fall (fruit, saplings, honeycomb, feathers ...). 0 = nothing drops.
+# Default: 3
+# Range: 0 ~ 8
+canopyFinds = 3
+#Patches of petals, flowers or leaf litter the fall lays on natural ground near each player. 0 = the ground stays as it is.
+# Default: 40
+# Range: 0 ~ 200
+canopyLitter = 40

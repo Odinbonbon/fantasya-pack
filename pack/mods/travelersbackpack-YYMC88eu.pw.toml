@@ -1,0 +1,8 @@
+name = "travelersbackpack-YYMC88eu"
+filename = "travelersbackpack-YYMC88eu.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rlloIFEV/versions/YYMC88eu/travelersbackpack-neoforge-26.3-11.4.3.jar"
+hash-format = "sha512"
+hash = "1c29a0dc4c67b73c9678de7da04979e45bbc822f46a1bd945f99fbcfa98ff691c435ae834cf2848fe8abc32e5936aafcf1e0e1acc653f972f4edb455f4521238"

@@ -1,0 +1,17 @@
+#Difficulty step of all region bosses: RELAXED, NORMAL, HARD, NIGHTMARE (damage x0.6/1/1.3/1.7, life x0.7/1/1.4/2, breaks x1.5/1/0.75/0.55)
+#Allowed Values: RELAXED, NORMAL, HARD, NIGHTMARE
+bossDifficulty = "NORMAL"
+#Extra factor on the damage of every boss attack (on top of the step)
+# Default: 1.0
+# Range: 0.1 ~ 5.0
+damageFactor = 1.0
+#Extra factor on the life of the bosses (on top of the step); a hit counts for 1/factor
+# Default: 1.0
+# Range: 0.1 ~ 10.0
+lifeFactor = 1.0
+#Extra factor on the breaks between attacks (on top of the step), 2.0 = twice as long, 0.5 = half
+# Default: 1.0
+# Range: 0.25 ~ 4.0
+pauseFactor = 1.0
+#Boss breathing and growling now and then, also while it sleeps
+ambientSounds = true

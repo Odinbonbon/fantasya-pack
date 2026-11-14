@@ -1,0 +1,8 @@
+name = "macaws-windows-Zd88JogC"
+filename = "macaws-windows-Zd88JogC.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/C7I0BCni/versions/Zd88JogC/mcw-windows-2.4.2-mc26.3neoforge.jar"
+hash-format = "sha512"
+hash = "b84161867a97956480fe378c234f898db4028421736fb259be10eb7fef48b103090d973b650b5a95118ba00995965db407a6fc57ef3dd9f88fb1a11c1064e8ed"

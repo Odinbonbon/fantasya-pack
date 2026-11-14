@@ -1,0 +1,8 @@
+name = "ae2-PDPQ4WfW"
+filename = "ae2-PDPQ4WfW.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XxWD5pD3/versions/PDPQ4WfW/appliedenergistics2-26.3.1-alpha.jar"
+hash-format = "sha512"
+hash = "0b2cd09cb2fc63c39e600d2989edb6c8ac2ceac396cbb15224aadd87c555ffa8465503af165a02df73646f1e0cc2f3a6d711f669fa7ba9a5dd9fe88d0b9533cc"

@@ -1,0 +1,8 @@
+name = "advanced-netherite-oTOE7dCV"
+filename = "advanced-netherite-oTOE7dCV.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CFX9ftUJ/versions/oTOE7dCV/advancednetherite-neoforge-2.4.4-26.3.jar"
+hash-format = "sha512"
+hash = "06d800ed2cc3bcc1ffceae8598f119271eeb021ac826c0addf7333f1620e3429d131aa47e3d81b91e8c116689769f7d84a830e0c971081d8fc76eb2325cb00f7"

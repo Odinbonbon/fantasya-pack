@@ -1,0 +1,5 @@
+version:5023
+preferredGraphicsBackend:"opengl"
+lang:de_de
+guiScale:2
+renderDistance:24
