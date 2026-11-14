@@ -3,3 +3,4 @@ preferredGraphicsBackend:"opengl"
 lang:de_de
 guiScale:2
 renderDistance:24
+key_key.veinminer_client.hold:key.keyboard.grave.accent

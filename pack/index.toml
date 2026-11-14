@@ -5,6 +5,10 @@ file = "config/DistantHorizons.toml"
 hash = "59bfbdb20a60f386be06e6416904bbe9d0a027935f9c262ab2b8e12a4433c80f"
 
 [[files]]
+file = "config/Veinminer/settings.json"
+hash = "1273c142b4a9e4c915bacfaaff3634023aedb8fc5a8a70245d150a5753bbdcac"
+
+[[files]]
 file = "config/advancednetherite-client.toml"
 hash = "f8c07c75bb06a3cca5c10a7bca924e96c2aa273b679f9cc1fa961ac50001977b"
 
@@ -714,7 +718,7 @@ hash = "269147e272bfeec12b8a50297fdb970baa5547396edc075bb533d1d732acb94f"
 
 [[files]]
 file = "config/fantasya-morph.toml"
-hash = "77438ce9f5aaf547de465bc20ead6064f0eaaf2b1ce8f106e8ef0c618960cba5"
+hash = "13ca3bbdecf42a4124feef62d382ec687c132da6185d0c9f1873df4b109ab87a"
 
 [[files]]
 file = "config/fantasya-volcano.toml"
@@ -1666,7 +1670,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "01622070b833a208efc4fdf41a36aadfc8b1ad6e36e07160b989421aa8546a68"
+hash = "fc7fcd9f5a987d963113aab0039364d9d71e9dddedce0849303768c6d4f18c47"
 preserve = true
 
 [[files]]

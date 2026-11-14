@@ -21,7 +21,7 @@ flightSeconds = 25
 #Chance (0..1) that a kill unlocks the shape; the soul bottle always works (survival only, creative/commands unaffected)
 # Default: 0.25
 # Range: 0.0 ~ 1.0
-killUnlockChance = 0.25
+killUnlockChance = 1.0
 #After this many kills of the same kind the shape is unlocked for sure (0 = only by chance)
 # Default: 5
 # Range: 0 ~ 1000
