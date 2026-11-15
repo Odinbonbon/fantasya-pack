@@ -1630,8 +1630,8 @@ hash = "2de00dbde0b240c082b9c548369d5bc86b83776dae8b7101402b33419a440184"
 metafile = true
 
 [[files]]
-file = "mods/fantasya-0.1.7.pw.toml"
-hash = "de642fa7f84570da2f5aacea191dbd6149d6d86d251bc0845ac659ee2e1f848a"
+file = "mods/fantasya-0.1.8.pw.toml"
+hash = "48af26695fc77c5ef315539e345497b32d4ae68c7bd302e0d736053c2893abf9"
 metafile = true
 
 [[files]]
