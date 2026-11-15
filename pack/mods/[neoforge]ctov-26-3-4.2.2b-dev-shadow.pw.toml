@@ -1,0 +1,8 @@
+name = "[neoforge]ctov-26-3-4.2.2b-dev-shadow"
+filename = "[neoforge]ctov-26-3-4.2.2b-dev-shadow.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fgmhI8kH/versions/lJkQTrca/%5Bneoforge%5Dctov-26-3-4.2.2b-dev-shadow.jar"
+hash-format = "sha512"
+hash = "92a16931b952b3fe30a70be8883a520076b867fbd2f98f892c813fc543e9eb46a0522af06106bfbe743ed8be506f16f55aac03c53de27f531ffc7e2ca52ae6ae"

@@ -1,0 +1,8 @@
+name = "PacketFixer-neoforge-3.3.7"
+filename = "PacketFixer-neoforge-3.3.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/c7m1mi73/versions/Fq2YuqLr/PacketFixer-neoforge-3.3.7.jar"
+hash-format = "sha512"
+hash = "a2fce502f00a16676ca2a647f9d99c5660a4969514626cd0cfdf48fc767212ac00461ba1498bc2b39c486faabd17b2d025fb496ecd51aa12e459530eaa39d11d"

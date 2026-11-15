@@ -1,0 +1,8 @@
+name = "forgeendertech-26.3.0.1-neoforge-build.0125"
+filename = "forgeendertech-26.3.0.1-neoforge-build.0125.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EgS8gGp8/versions/mTMe0ZDJ/forgeendertech-26.3.0.1-neoforge-build.0125.jar"
+hash-format = "sha512"
+hash = "ff79c47b963d4ce8fde56502a5eda316d74bfd300e48e5f9304ffac92dcb117d1fee97b3d1b1a36aa4c0beafdb2bb902762ae0f7375e84a722f1f269e0690c50"

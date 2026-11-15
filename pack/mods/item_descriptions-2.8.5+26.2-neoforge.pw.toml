@@ -1,0 +1,8 @@
+name = "item_descriptions-2.8.5+26.2-neoforge"
+filename = "item_descriptions-2.8.5+26.2-neoforge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/UaizcMKP/versions/3vCktdxt/item_descriptions-2.8.5%2B26.2-neoforge.jar"
+hash-format = "sha512"
+hash = "c9e4cd56e5530ffd4ec56a61b63b6acb0522fa7ea2b3ed814c89790ce7667ca24543c3ca78daed4fff2c2f03746d6087c4ca2fe453f37793a910764a65adda82"

@@ -1,0 +1,8 @@
+name = "BiomesOPlenty-neoforge-26.3-26.3.0.0.16"
+filename = "BiomesOPlenty-neoforge-26.3-26.3.0.0.16.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HXF82T3G/versions/FYI2Aswc/BiomesOPlenty-neoforge-26.3-26.3.0.0.16.jar"
+hash-format = "sha512"
+hash = "8977435a39edd63a6d6b7f67bc1cea94ddd6f254474a4413cee57ae14a0bc060c845af190314858b6b9925c904f8ac3d9f40e96972fd12bc829c48642654cad5"

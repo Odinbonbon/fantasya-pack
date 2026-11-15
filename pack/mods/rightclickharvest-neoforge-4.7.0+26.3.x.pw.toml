@@ -1,0 +1,8 @@
+name = "rightclickharvest-neoforge-4.7.0+26.3.x"
+filename = "rightclickharvest-neoforge-4.7.0+26.3.x.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Cnejf5xM/versions/iXHdf3Sz/rightclickharvest-neoforge-4.7.0%2B26.3.x.jar"
+hash-format = "sha512"
+hash = "6ff0b20216af40dda7df9077115c284308a54157dde9b41f86d5ca5f95ea62c30ac80879e7ed190feb73534a4b2181b039f070498dd8a547160d76e12e912eb9"

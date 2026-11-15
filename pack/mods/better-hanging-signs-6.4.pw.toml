@@ -1,0 +1,8 @@
+name = "better-hanging-signs-6.4"
+filename = "better-hanging-signs-6.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/l6VVh2KR/versions/AvFCRiiM/better-hanging-signs-6.4.jar"
+hash-format = "sha512"
+hash = "b96342c41861a1ee922ce6af2af444456c0a0c6ff3cb01b1b74d72ada4103f74f0167ddd06f571bce0b15470c0fe4c9c246a6269e7b2f856d997dc1a311b46d0"

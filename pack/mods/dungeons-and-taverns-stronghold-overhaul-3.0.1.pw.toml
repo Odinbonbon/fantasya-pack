@@ -1,0 +1,8 @@
+name = "dungeons-and-taverns-stronghold-overhaul-3.0.1"
+filename = "dungeons-and-taverns-stronghold-overhaul-3.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rYocd2LE/versions/WHOM04Na/dungeons-and-taverns-stronghold-overhaul-3.0.1.jar"
+hash-format = "sha512"
+hash = "06ae12f7e3992835e957578149ee84a8b14f505ca77dd694fb2f1884c7873eae273112d480a4718de463591c800b672c4a12937a455d91cdc3181b8628011e47"

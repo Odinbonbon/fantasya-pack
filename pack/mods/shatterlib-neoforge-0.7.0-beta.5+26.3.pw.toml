@@ -1,0 +1,8 @@
+name = "shatterlib-neoforge-0.7.0-beta.5+26.3"
+filename = "shatterlib-neoforge-0.7.0-beta.5+26.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RH2KUdKJ/versions/sUntVaAo/shatterlib-neoforge-0.7.0-beta.5%2B26.3.jar"
+hash-format = "sha512"
+hash = "6cd68f3309e62339e856341d3b7eef20ef3973b7c793a515362f8fc543dc30b1530377cf09eb79ff87a1988f2d8422948dc2f9b7a1365b04da7506f5ea492f38"

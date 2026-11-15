@@ -1,0 +1,8 @@
+name = "armorstatues-v26.3.0-mc26.3.x+neoforge"
+filename = "armorstatues-v26.3.0-mc26.3.x+neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bbGCtEvb/versions/RVyryuxi/armorstatues-v26.3.0-mc26.3.x%2Bneoforge.jar"
+hash-format = "sha512"
+hash = "3ff0e790da6d30aae938e7a493866f4ad7d9862c2d0e480885db2b7fba7c83c63dd9c6ca9f27a7b1efacdb140d1da941740914d4d792b97ec47a2ad32bc7a308"

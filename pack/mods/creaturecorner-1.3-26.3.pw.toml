@@ -1,0 +1,8 @@
+name = "creaturecorner-1.3-26.3"
+filename = "creaturecorner-1.3-26.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gJpuDQ18/versions/Dw5ZGzRT/creaturecorner-1.3-26.3.jar"
+hash-format = "sha512"
+hash = "08b3162f8861ff885f56fac4274ab4dc8cb87044da5d2f250f43adc46af91761af0dc7f9fc2cf796f927e1aeb8b4530931239b513017070206f0795324cbe1ac"

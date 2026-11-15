@@ -1,0 +1,8 @@
+name = "immersiveoverlays-1.8.7+26.3-neoforge"
+filename = "immersiveoverlays-1.8.7+26.3-neoforge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/PKoLkD98/versions/RAGCCnC4/immersiveoverlays-1.8.7%2B26.3-neoforge.jar"
+hash-format = "sha512"
+hash = "df6c3a7658c1b965c5498c38d44518c0b32a6a182048470c7331ab912fd21eacd25b95486f8b00432d3b0d322996643961596939ba86ec308fb3062e302b1547"

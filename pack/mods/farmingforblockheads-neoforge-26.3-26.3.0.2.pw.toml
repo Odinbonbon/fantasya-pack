@@ -1,0 +1,8 @@
+name = "farmingforblockheads-neoforge-26.3-26.3.0.2"
+filename = "farmingforblockheads-neoforge-26.3-26.3.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4WJZr8JU/versions/qiSkwHHx/farmingforblockheads-neoforge-26.3-26.3.0.2.jar"
+hash-format = "sha512"
+hash = "041a38cbf8a27df2996d637cd5fabf576689960bb0c8313a57a6278b88d809f7ab5cb621be1149decf92f12d1083bd913adb00e47373ff0c4d54e97c9d36bd7d"

@@ -1,0 +1,8 @@
+name = "modonomicon-26.3-neoforge-2.20.1"
+filename = "modonomicon-26.3-neoforge-2.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/692GClaE/versions/fkA0OME3/modonomicon-26.3-neoforge-2.20.1.jar"
+hash-format = "sha512"
+hash = "254492d2b4783aaef1b6cca08f311abb8743109e297d735c82cfb116720b542f9a6eec01a6fdf814043370cea4afdb7333808fb51054e2a9f96c1fbfa6ffcbc3"

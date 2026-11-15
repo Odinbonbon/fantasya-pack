@@ -1,0 +1,8 @@
+name = "zipline-1.5.3+26.3-neoforge"
+filename = "zipline-1.5.3+26.3-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/C1MoWQlb/versions/8tBCwiE3/zipline-1.5.3%2B26.3-neoforge.jar"
+hash-format = "sha512"
+hash = "75779f920ab0bd42950c26052a88d75f2cb059ea7a320d81bfcab7a275ae3c1010b7ea8442e481c662fa0894ce95b020d4916736ce4a3527575ef7f2c9b8f391"

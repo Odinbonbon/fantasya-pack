@@ -1,0 +1,8 @@
+name = "occultism-26.3-neoforge-1.267.1"
+filename = "occultism-26.3-neoforge-1.267.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sbJh4AZw/versions/113BP7vp/occultism-26.3-neoforge-1.267.1.jar"
+hash-format = "sha512"
+hash = "b44fff3c88eca0e75b7ae1a36020cf256959020d5ff10dc57adc66a38a38f60b43dc903707341812cec22622e9088d7a343da70ec27b145cf6cd63e85ae52100"

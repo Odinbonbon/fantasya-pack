@@ -1,0 +1,8 @@
+name = "enderzoology-v26.3.1-mc26.3.x+neoforge"
+filename = "enderzoology-v26.3.1-mc26.3.x+neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CUQhzQjg/versions/3xD32sMJ/enderzoology-v26.3.1-mc26.3.x%2Bneoforge.jar"
+hash-format = "sha512"
+hash = "fc327038c0386b3a39c4f4235cb920dc77df816f195292922739dc32e6bcafc350da36cbdc4b1e414cfa143ecdca450519d21564bcbe0447c5bd7139323f4e9d"

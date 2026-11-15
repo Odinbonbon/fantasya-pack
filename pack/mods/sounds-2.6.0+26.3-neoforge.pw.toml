@@ -1,0 +1,8 @@
+name = "sounds-2.6.0+26.3-neoforge"
+filename = "sounds-2.6.0+26.3-neoforge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZouiUX7t/versions/uBdUO13k/sounds-2.6.0%2B26.3-neoforge.jar"
+hash-format = "sha512"
+hash = "a8d3bee41acf989b7a639718ffc7e5aa3e84e356a2654bed28da14dbfc2b02853c970581b99b3210b41fce6ba17b18bf596652049eff77bffbd7228b923b9ef6"

@@ -1,0 +1,8 @@
+name = "shippy_ships-1.0.25.3-NEOFORGE-MC-26.3"
+filename = "shippy_ships-1.0.25.3-NEOFORGE-MC-26.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oxBNHOmi/versions/vrK02nxe/shippy_ships-1.0.25.3-NEOFORGE-MC-26.3.jar"
+hash-format = "sha512"
+hash = "0552a998c0addee63a5fb2f43641b23d65b912db413cd41e70e27237541cc569112b9d6bdc118a9d591202ffbf6c3dede3003d09ec1131242acd7e112c826629"

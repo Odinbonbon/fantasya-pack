@@ -1,0 +1,8 @@
+name = "Wayfinder-NeoForge-1.2.7-mc26.3"
+filename = "Wayfinder-NeoForge-1.2.7-mc26.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/909sOSOR/versions/WOT22kgX/Wayfinder-NeoForge-1.2.7-mc26.3.jar"
+hash-format = "sha512"
+hash = "c21c3ac6f8d3523e385855a14155f237e2ce5313743730e5fc1595b5e28bd6d01741a058fac8625cd08cedf7d5c3dcc457a2a25d102fe950f22dc478b2ec0a0a"

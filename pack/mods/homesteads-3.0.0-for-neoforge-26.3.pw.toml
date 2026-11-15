@@ -1,0 +1,8 @@
+name = "homesteads-3.0.0-for-neoforge-26.3"
+filename = "homesteads-3.0.0-for-neoforge-26.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6ItsEKMh/versions/aDqZPFHt/homesteads-3.0.0-for-neoforge-26.3.jar"
+hash-format = "sha512"
+hash = "335eceefe612e862eca899d646f91fdf0a4b37fd2117f5372f5e43433e08547e372578188c01ddf1b1870a59df7510052e25ac2a01a65e979d330c0f5e819e01"

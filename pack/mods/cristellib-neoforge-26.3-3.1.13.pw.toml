@@ -1,0 +1,8 @@
+name = "cristellib-neoforge-26.3-3.1.13"
+filename = "cristellib-neoforge-26.3-3.1.13.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cl223EMc/versions/v197aEhs/cristellib-neoforge-26.3-3.1.13.jar"
+hash-format = "sha512"
+hash = "efb06f8c5cdc8ec4852e705fab68fb6f1668be0b226058a24d7ae9d511d8eb77800d128f314fb5d7652fc56faef81c430d8becb376d54991fb14ec1ebeb1dea3"

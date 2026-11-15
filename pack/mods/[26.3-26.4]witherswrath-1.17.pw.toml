@@ -1,0 +1,8 @@
+name = "[26.3-26.4]witherswrath-1.17"
+filename = "[26.3-26.4]witherswrath-1.17.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qqIrLnDt/versions/1EnyFIiF/%5B26.3-26.4%5Dwitherswrath-1.17.jar"
+hash-format = "sha512"
+hash = "19a2904afa59a1bfbcd96869c69c816cfb1f80db9d424db5c6e6fedba49c801d8892664b85bac9d0358a0e4d46537d17ad1e4686cd9ff298c9d33a06631ad7a7"

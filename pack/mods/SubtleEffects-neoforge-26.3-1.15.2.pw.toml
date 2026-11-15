@@ -1,0 +1,8 @@
+name = "SubtleEffects-neoforge-26.3-1.15.2"
+filename = "SubtleEffects-neoforge-26.3-1.15.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4q8UOK1d/versions/jgLfCrS1/SubtleEffects-neoforge-26.3-1.15.2.jar"
+hash-format = "sha512"
+hash = "3e6fb0d0f1f6f23ab270960a26a23e77bf700ddda7f607750e132e66335d8e51a98e4833d02f37ba9127316c25b41d5f892eba4a581f5bab98f0e60d24c8a277"

@@ -1,0 +1,8 @@
+name = "theurgy-26.3-neoforge-1.121.1"
+filename = "theurgy-26.3-neoforge-1.121.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uOVMgoil/versions/O215D3n7/theurgy-26.3-neoforge-1.121.1.jar"
+hash-format = "sha512"
+hash = "643a1f60af91c255a9960ad2ceb95a37d4e666067ab5ee4b719d39eef7723ec38f1673a18a5bb9bd3e6ddb9cb96d227fe635f4c12877bbd68fb7d83e275997b5"

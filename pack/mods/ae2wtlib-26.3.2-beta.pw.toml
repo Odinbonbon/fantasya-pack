@@ -1,0 +1,8 @@
+name = "ae2wtlib-26.3.2-beta"
+filename = "ae2wtlib-26.3.2-beta.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pNabrMMw/versions/WdI8qZMR/ae2wtlib-26.3.2-beta.jar"
+hash-format = "sha512"
+hash = "ec17e9fbc6c89f9bd9cbec18bad85061699d2e9b89a4a527f0f7d186431abffbaecd80e3359d59ad7b89ec90433526134505151547a7c9ebae1700c5280800b8"

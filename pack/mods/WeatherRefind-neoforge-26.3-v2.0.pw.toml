@@ -1,0 +1,8 @@
+name = "WeatherRefind-neoforge-26.3-v2.0"
+filename = "WeatherRefind-neoforge-26.3-v2.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Qyzsewil/versions/snz32UfK/WeatherRefind-neoforge-26.3-v2.0.jar"
+hash-format = "sha512"
+hash = "1669d6949a348bbbfe210d7d65fc4cc7d39c537b832863743495e97716c65268fe4c7cc76df57e7e15c9737739dbe4c3e42a8812777abfb2d384b8fbab0ef0ba"

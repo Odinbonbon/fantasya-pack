@@ -1,0 +1,8 @@
+name = "betterbiomeblend-neoforge-26.3-1.4.1"
+filename = "betterbiomeblend-neoforge-26.3-1.4.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Rs6c7WyL/versions/v1CeExkd/betterbiomeblend-neoforge-26.3-1.4.1.jar"
+hash-format = "sha512"
+hash = "5e6cd919c219ba71c7a94f7977bb722251ece9d37c69f590b9737c7cc9cf82a5ff0871ad5ca88f13b8feb3a8adf2e0485aa6dceeb9b241a3430f28ad6cda749c"

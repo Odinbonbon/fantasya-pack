@@ -1,0 +1,8 @@
+name = "animal_feeding_trough-1.2.1+26.3-neoforge"
+filename = "animal_feeding_trough-1.2.1+26.3-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bRFWnJ87/versions/BLZ45NBU/animal_feeding_trough-1.2.1%2B26.3-neoforge.jar"
+hash-format = "sha512"
+hash = "48848183ba2a523124ac2c5de9b8a2828d76abf5a483b5301892e58c41456c0e91e883ad2211b75b56225707b650d27d4265bd8115c1d53a4827d6da04660972"

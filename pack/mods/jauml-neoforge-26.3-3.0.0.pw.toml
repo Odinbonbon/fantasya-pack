@@ -1,0 +1,8 @@
+name = "jauml-neoforge-26.3-3.0.0"
+filename = "jauml-neoforge-26.3-3.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ihvBalM2/versions/y95tIzR0/jauml-neoforge-26.3-3.0.0.jar"
+hash-format = "sha512"
+hash = "f240230cac698ff2a662ea3b390390d2d4bfc7b57d2607a79b90f11b45a5a4d4e2e93da0eb0681d6c23c43f260f93f22da7324ef0540a173cf896e11f855274b"

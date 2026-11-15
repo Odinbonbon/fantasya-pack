@@ -1,0 +1,8 @@
+name = "particular-26.3-NeoForge-1.6.1"
+filename = "particular-26.3-NeoForge-1.6.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/pYFUU6cq/versions/qCurpUcV/particular-26.3-NeoForge-1.6.1.jar"
+hash-format = "sha512"
+hash = "abbed0fbbb9b1630322cade5dd9a7c89a3e8ebbd52b9dcc0ceac15f396356bb66147abf16f7ce84ce212d9fa85148460bfe6966ada3302e72d3191865c348a15"

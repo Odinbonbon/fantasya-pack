@@ -1,0 +1,8 @@
+name = "reanimal-neoforge-0.6.13+26.3"
+filename = "reanimal-neoforge-0.6.13+26.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4Q5qctHv/versions/5NiC5Z40/reanimal-neoforge-0.6.13%2B26.3.jar"
+hash-format = "sha512"
+hash = "c51b0add2aa89bba35d05cda4a2f3f537bf37d56ea92465d248a17c2687fb6572f1fd4ae22e9c9352f5efa8b84af8db2ccb401b4c78365363e47cdf2fbed84b4"

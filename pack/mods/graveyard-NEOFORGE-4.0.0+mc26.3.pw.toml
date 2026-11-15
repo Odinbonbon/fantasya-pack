@@ -1,0 +1,8 @@
+name = "graveyard-NEOFORGE-4.0.0+mc26.3"
+filename = "graveyard-NEOFORGE-4.0.0+mc26.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QivVPB8W/versions/ncLH2ul6/graveyard-NEOFORGE-4.0.0%2Bmc26.3.jar"
+hash-format = "sha512"
+hash = "016a69d66157d9156a2d3f5cc1fb33a7af23b02e9d52b2bdbb7b252eb344229d4a754e1ffafb6276ea583d7a2ad3d5c500b1e7ad8817f79f3ee4c1ba494afbb8"

@@ -1,0 +1,8 @@
+name = "energizedpower-3.0.8+26.3.x-neoforge"
+filename = "energizedpower-3.0.8+26.3.x-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6pku8gW1/versions/c3d9mhHS/energizedpower-3.0.8%2B26.3.x-neoforge.jar"
+hash-format = "sha512"
+hash = "0885fd6b24ba7e435602c9e94cb8733343b854a33206bb38f33b75ad61d81716f75c04cd1c766dde209495b1ecd69c0cb427a944a9d469b7e7d5d9a36591c354"

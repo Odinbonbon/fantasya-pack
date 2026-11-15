@@ -1,0 +1,8 @@
+name = "eternalnether-v26.3.0-mc26.3.x+neoforge"
+filename = "eternalnether-v26.3.0-mc26.3.x+neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/s6R4jmL8/versions/LnSwhIHT/eternalnether-v26.3.0-mc26.3.x%2Bneoforge.jar"
+hash-format = "sha512"
+hash = "bad85482894edf8fb32beb2c8ca13f17723d04682ba3b5ddae4df7e2d5028d1f53ed62dc794fa91bef9e6030097f37ad0d42d004274314a24346c4584810dcbe"

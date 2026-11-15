@@ -1,0 +1,8 @@
+name = "adlods-26.3.0.1-neoforge-build.0125"
+filename = "adlods-26.3.0.1-neoforge-build.0125.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Y3a9lWnU/versions/CbM5a8pV/adlods-26.3.0.1-neoforge-build.0125.jar"
+hash-format = "sha512"
+hash = "0a17cfbb41a04e5e29bed8f98399c2a781dc28641fcd5001f49557a8dc3b42c9be50cd37746535ea3ade65f1b6d951a09f418aeab8abb44a1c1d479c5b40e0a5"

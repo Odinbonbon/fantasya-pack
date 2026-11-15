@@ -1,0 +1,8 @@
+name = "AnimatedDoors-RP-2.0.0"
+filename = "AnimatedDoors-RP-2.0.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/SFrRaocz/versions/ktrq3aXY/AnimatedDoors-RP-2.0.0.zip"
+hash-format = "sha512"
+hash = "feb75a8b1e18d5da753965635ef782487a42820ff1ca95e8dd6c24044d31175ac3e0fa5b33297fd51a67631659eca43d21d96b2d439b864ed3bc4750307b7827"

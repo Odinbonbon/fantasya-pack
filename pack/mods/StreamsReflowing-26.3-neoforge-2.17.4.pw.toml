@@ -1,0 +1,8 @@
+name = "StreamsReflowing-26.3-neoforge-2.17.4"
+filename = "StreamsReflowing-26.3-neoforge-2.17.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oLS8HdJ1/versions/KWCsgTRI/StreamsReflowing-26.3-neoforge-2.17.4.jar"
+hash-format = "sha512"
+hash = "4560dcc92a449d68821a202a6ddd6ac2be1f29c7bc16908f1cda77d02350d8b81e2e9b1b3a4667634ef3edfbdfee64fe7f99a548a23a4eac3f533c51be1a3e59"

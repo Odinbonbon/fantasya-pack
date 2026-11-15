@@ -1,0 +1,8 @@
+name = "AttributeFix-neoforge-MC26.3-26.3.0.1"
+filename = "AttributeFix-neoforge-MC26.3-26.3.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lOOpEntO/versions/FY3iBTbW/AttributeFix-neoforge-MC26.3-26.3.0.1.jar"
+hash-format = "sha512"
+hash = "afb162fff5a0996a51ab0bd0676a28ef555e8ef2285c30e46168958f3ef0bc6678e2a1e74a295b7b19d3dae6c59a125ea942f0fe2d9bba1c80bc48d0506cf2d4"

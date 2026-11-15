@@ -1,0 +1,8 @@
+name = "reeses-sodium-options-neoforge-2.2.6-beta.1+mc26.3"
+filename = "reeses-sodium-options-neoforge-2.2.6-beta.1+mc26.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/S9MvJoF5/reeses-sodium-options-neoforge-2.2.6-beta.1%2Bmc26.3.jar"
+hash-format = "sha512"
+hash = "65549fb5f27509a557d15d952f0dff7e9d65df8598ef590850bdf3957505ac7b81d5ab0f63119213b77957c8c0ae2b75409f6ddee33d6997a2b6bc7f4156bb85"

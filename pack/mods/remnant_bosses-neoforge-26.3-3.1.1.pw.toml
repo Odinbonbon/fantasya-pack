@@ -1,0 +1,8 @@
+name = "remnant_bosses-neoforge-26.3-3.1.1"
+filename = "remnant_bosses-neoforge-26.3-3.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/coZxDAGe/versions/3ovEXlz6/remnant_bosses-neoforge-26.3-3.1.1.jar"
+hash-format = "sha512"
+hash = "3e519057b287a231f77689450fd5cab2b2486955963eea687dd14327f71b368f7da79fb6c42bbe81f91864aa84c75665bae7324fa60bf2a50027b51f1cd132ad"

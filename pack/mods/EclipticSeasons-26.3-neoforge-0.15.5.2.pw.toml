@@ -1,0 +1,8 @@
+name = "EclipticSeasons-26.3-neoforge-0.15.5.2"
+filename = "EclipticSeasons-26.3-neoforge-0.15.5.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ofdM7yJE/versions/YzFNh6Oy/EclipticSeasons-26.3-neoforge-0.15.5.2.jar"
+hash-format = "sha512"
+hash = "31b10e4afb11c9ff7edb784df6fbdfa7e61cdafb4cab95a655038711d0d695e28372b17c8c3565d8a0b3a9be0226deffca994d46c6549d6c180d9710f440e65c"

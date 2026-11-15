@@ -1,0 +1,8 @@
+name = "swinginglanterns-neoforge-26.3-2.1.0"
+filename = "swinginglanterns-neoforge-26.3-2.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/3IOcW74j/versions/nFbQZNwL/swinginglanterns-neoforge-26.3-2.1.0.jar"
+hash-format = "sha512"
+hash = "36b2bdd53ae72f95ac5f94e241f041b918ecf5fbd51c60e10dafe4fb69f82ab8a0587997b711b9d48a19cf37a7c6ce557dd0a23cbbd1124f400353a2ccc91de8"

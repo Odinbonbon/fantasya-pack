@@ -1,5 +1,0 @@
-[
-  {"version":1},
-  {"ingredient":{"id":"minecraft:enchanted_book","components":"{\"minecraft:stored_enchantments\":{\"minecraft:sharpness\":10}}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"fantasya:storm_blade"},"type":"item_stack","bookmarkType":"INGREDIENT"}
-]

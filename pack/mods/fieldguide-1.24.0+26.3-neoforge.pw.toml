@@ -1,0 +1,8 @@
+name = "fieldguide-1.24.0+26.3-neoforge"
+filename = "fieldguide-1.24.0+26.3-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/72RRCWM6/versions/SKceEnwR/fieldguide-1.24.0%2B26.3-neoforge.jar"
+hash-format = "sha512"
+hash = "428c243055a8a06901cf799ab8e1289c2d9b0ede6ac806d72d0a2fafb264a633f5a9874ac7b905ba62488aeef7a9cfe6e5fe8f177facf888c7e28a2dcb1b9acd"

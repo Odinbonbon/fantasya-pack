@@ -1,0 +1,8 @@
+name = "reliquary-26.3-2.0.103.1600"
+filename = "reliquary-26.3-2.0.103.1600.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fQO83PId/versions/SzIQCeDn/reliquary-26.3-2.0.103.1600.jar"
+hash-format = "sha512"
+hash = "2397dcba635a30d81e88ffd89cf9715d34d92fee9c90e3745e10beea2673cfd154e4f03e977b9eb3bb40646640cc945cc82511fbe926d6a408ecb70d4a596245"

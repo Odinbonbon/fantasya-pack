@@ -1,0 +1,8 @@
+name = "catenary-0.8.0"
+filename = "catenary-0.8.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zJIYJfn8/versions/Dedb9Cbt/catenary-0.8.0.jar"
+hash-format = "sha512"
+hash = "6734205bd7625bf67b1622d35d131dfd53fb9fee4ecb191c015996eb684a08049264d83830b2b0f7bdc730a94bdb742dc2eb6cbec5c1c8a5db3b2f37a8460cb8"

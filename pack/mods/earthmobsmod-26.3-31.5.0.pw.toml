@@ -1,0 +1,8 @@
+name = "earthmobsmod-26.3-31.5.0"
+filename = "earthmobsmod-26.3-31.5.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XXnAl6q1/versions/RUDEQfch/earthmobsmod-26.3-31.5.0.jar"
+hash-format = "sha512"
+hash = "9b3b81645b2bcb51c16bcd927ce8ed566500c2b815bc458860daccadfb99d3e67fffa037b17236850d9579176aa8f441ea40401b5840b76653812400561fdcef"

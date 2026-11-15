@@ -1,0 +1,8 @@
+name = "offgrid-neoforge-1.0.6+26.3"
+filename = "offgrid-neoforge-1.0.6+26.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vvgTqF0n/versions/J5YFm45o/offgrid-neoforge-1.0.6%2B26.3.jar"
+hash-format = "sha512"
+hash = "e9df22f29014481b3db9c195607a0c23ba85f0ad920b3e16d78a103b4076367eac900b6993867ec9087e3c4dc0e554caabc84d999c1283baa941a7c5e6c916f4"

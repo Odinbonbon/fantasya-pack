@@ -1,8 +1,0 @@
-name = "fantasya-0.1.6"
-filename = "fantasya-0.1.6.jar"
-side = "both"
-
-[download]
-url = "https://github.com/Odinbonbon/fantasya-pack/releases/download/v0.1.6/fantasya-0.1.6.jar"
-hash-format = "sha512"
-hash = "1c48ec98f1c415bdf82ee08d60e188cc1d576875aa9551c988d1b2202f16c170ee9ae1dfd7477ee811ba899704b89014e36c595d9a886e6a2e586522c5db9b7a"

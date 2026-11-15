@@ -1,0 +1,8 @@
+name = "illagerblabber-26.3-NeoForge-1.1.0"
+filename = "illagerblabber-26.3-NeoForge-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WS4FswTq/versions/ZujOAxWf/illagerblabber-26.3-NeoForge-1.1.0.jar"
+hash-format = "sha512"
+hash = "9f390111197da5505031a1732143c98bf3d661a4868ea3f4fda72f018f24411d8f887efe5d1977d7ee58a5731cd93c71ed57271bd721d76f353c8129436b11f9"

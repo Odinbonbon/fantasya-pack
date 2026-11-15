@@ -1,0 +1,8 @@
+name = "dragonkind-evolved-1.15"
+filename = "dragonkind-evolved-1.15.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yo1bGdBx/versions/eft9uYXU/dragonkind-evolved-1.15.jar"
+hash-format = "sha512"
+hash = "5609d4d4b84ad9317bd6b192ab487110ec9cf7eaab6a050da9df5bcdd966038c8686869fd07b78fd7ba4a5084aa06360556fcb394ae8de5a3693bfb961b71399"

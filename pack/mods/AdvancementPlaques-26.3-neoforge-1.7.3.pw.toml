@@ -1,0 +1,8 @@
+name = "AdvancementPlaques-26.3-neoforge-1.7.3"
+filename = "AdvancementPlaques-26.3-neoforge-1.7.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/9NM0dXub/versions/XqQOUqXk/AdvancementPlaques-26.3-neoforge-1.7.3.jar"
+hash-format = "sha512"
+hash = "a1f9627e6c9a998e42edbd03aac7ae9a38530ed6e96f1cdcd271ae271c377ac207d09810afaabbc768dd48ec9652c97a4afe4e1bceb5c9ea331dc72a981d58bc"

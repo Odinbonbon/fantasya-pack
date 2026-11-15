@@ -1,0 +1,8 @@
+name = "mru-1.0.45+26.3-neoforge"
+filename = "mru-1.0.45+26.3-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SNVQ2c0g/versions/LMtqlivi/mru-1.0.45%2B26.3-neoforge.jar"
+hash-format = "sha512"
+hash = "627592fd387c6825efb85604069cd14a7e3c7de090207dc138bafbdde842a85ab3bc41cb171c5f4e1a4c06760e568fd0e87509cc9e9e61e53511c28c068b40d6"

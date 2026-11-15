@@ -1,0 +1,8 @@
+name = "yet_another_config_lib_v3-3.9.7+26.3-neoforge"
+filename = "yet_another_config_lib_v3-3.9.7+26.3-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1eAoo2KR/versions/GL24RgOP/yet_another_config_lib_v3-3.9.7%2B26.3-neoforge.jar"
+hash-format = "sha512"
+hash = "4f94b08706825c0e5f8413a68783355d60bd3da7b6526c817caad997147db6eae42f187c7f14a0242941a7ceec9d69396978e154342f6c9d55862258b0afbfa8"

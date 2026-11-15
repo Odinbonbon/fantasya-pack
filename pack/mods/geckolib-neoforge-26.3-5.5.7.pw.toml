@@ -1,0 +1,8 @@
+name = "geckolib-neoforge-26.3-5.5.7"
+filename = "geckolib-neoforge-26.3-5.5.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8BmcQJ2H/versions/2s1O42FX/geckolib-neoforge-26.3-5.5.7.jar"
+hash-format = "sha512"
+hash = "24a607529f57841a12d90d653a7823acf9a13284cb4631c9ee4c017bcba062e81cb8a7db8933112d9349dd05765333d54c90c9dde8feae3d2590f417201a3220"
