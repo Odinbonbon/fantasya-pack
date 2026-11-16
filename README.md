@@ -10,6 +10,16 @@ Minecraft **26.3** mit **NeoForge 26.3.0.99**: Fantasya, Iris + Solas-Shader, Be
 3. Der Launcher lädt alle Mods selbst herunter (Fantasya kommt aus den Releases hier, alles andere von Modrinth).
 4. In den Einstellungen der Instanz mindestens **12 GB Arbeitsspeicher** geben. Der erste Start dauert ein paar Minuten.
 
+## Gefährten (KI-Begleiter, ab 0.1.9)
+
+- Im Spiel zuerst das **Gefährten-Handbuch** bauen (Buch + Amethystsplitter) – darin steht alles: Ei ausbrüten, Rufen beim
+  Namen („Kira, komm mit“, „Kira, bau das ab“, „Kira, wie baue ich einen Ofen?“, „Kira, was kannst du?“), Stufen,
+  Ausrüstung, Reiten, Gedächtnis, Wissen.
+- Alle Befehle und Antworten funktionieren **ohne KI**. Wer frei mit ihnen reden will, installiert
+  [Ollama](https://ollama.com) und lädt einmal das kleine Modell: `ollama pull qwen3:4b` (ca. 2,5 GB). Ollama muss nur
+  bei dem laufen, der die Welt hostet.
+- Ihre Erinnerungen liegen in der Welt (`saves/<Welt>/gefaehrten/`) und bleiben bei Updates erhalten.
+
 ## Zusammen spielen
 
 - Wer die Welt hat: Welt starten → Esc → **„Für LAN öffnen“** → „LAN-Welt starten“. Im Chat erscheint eine Adresse

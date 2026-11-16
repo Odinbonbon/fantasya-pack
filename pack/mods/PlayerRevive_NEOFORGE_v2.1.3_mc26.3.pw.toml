@@ -1,8 +1,0 @@
-name = "PlayerRevive_NEOFORGE_v2.1.3_mc26.3"
-filename = "PlayerRevive_NEOFORGE_v2.1.3_mc26.3.jar"
-side = "both"
-
-[download]
-url = "https://cdn.modrinth.com/data/ABIMzABM/versions/jGQAgoLA/PlayerRevive_NEOFORGE_v2.1.3_mc26.3.jar"
-hash-format = "sha512"
-hash = "745188329110a1bc2ad42e3b32fa3aea268fbcbaedc46b5057beba6902ca75112ed015ea75c02eb529c5e49317ecae831ae8753e2cda35a23680cac694cc8798"

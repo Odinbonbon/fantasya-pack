@@ -1058,7 +1058,7 @@ hash = "931f4c9e1c8d60aa1a34b5cfb1ef509682c814d0dc73c50a915264fe4d97b1f7"
 
 [[files]]
 file = "config/solonion-client.json"
-hash = "3b25083488df1b392b417e202ade95037aee601ff4a564067c2b1d67fff60aa0"
+hash = "8850130eb1a66f134c903ed898ffc78a2b12b72ac39902254674868e66544e7d"
 
 [[files]]
 file = "config/solonion.json"
@@ -1322,11 +1322,6 @@ metafile = true
 [[files]]
 file = "mods/Ping-Wheel-1.12.2-neoforge-26.3.pw.toml"
 hash = "d0e6229944ef02cd588af3ea4fcf5b11700f50f015ca11938ad7f9b79c2d8e99"
-metafile = true
-
-[[files]]
-file = "mods/PlayerRevive_NEOFORGE_v2.1.3_mc26.3.pw.toml"
-hash = "456bf87d32b344e2b1cfc2b8fb0bd5a6f7c3aa17eb9922bd38c91539a44afa2e"
 metafile = true
 
 [[files]]
@@ -1630,8 +1625,8 @@ hash = "2de00dbde0b240c082b9c548369d5bc86b83776dae8b7101402b33419a440184"
 metafile = true
 
 [[files]]
-file = "mods/fantasya-0.1.8.pw.toml"
-hash = "48af26695fc77c5ef315539e345497b32d4ae68c7bd302e0d736053c2893abf9"
+file = "mods/fantasya-0.1.9.pw.toml"
+hash = "c902eb51670637d8c97f3064740684ed703f612dbed5bce1bc97890d542dc8e4"
 metafile = true
 
 [[files]]
@@ -1677,6 +1672,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib-neoforge-26.3-5.5.7.pw.toml"
 hash = "7e855da77e14d57d48ec2ed34a2f5697a9f7cf19579e596bdcef3fb39e659fa5"
+metafile = true
+
+[[files]]
+file = "mods/gefaehrten-1.0.0.pw.toml"
+hash = "5eedc5d31c283b7fe53cffbac3aaafda9dfea7e564f494c29025b12dbc2da63f"
 metafile = true
 
 [[files]]

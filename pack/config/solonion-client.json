@@ -5,8 +5,8 @@
   "shouldShowInactiveBenefits": true,
   "shouldShowInactiveDetriments": true,
   "showButtonInInventory": true,
-  "buttonInventoryX": 130,
-  "buttonInventoryY": 62,
+  "buttonInventoryX": 154,
+  "buttonInventoryY": -20,
   "buttonInventoryWidth": 24,
   "buttonInventoryHeight": 16
 }
