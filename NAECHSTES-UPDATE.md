@@ -1,6 +1,9 @@
 # Für das nächste Pack-Update (nach 0.1.10)
 
-(leer)
+- Corpse-Mod RAUS (Nutzer 17.11. ~22:20): pack/mods/corpse-*.pw.toml + Config corpse* entfernen (in mk_update.py RAUS =
+  ["mods/corpse-"], OVERRIDES_RAUS = ["overrides/config/corpse"]). VORHER WARNEN: Gegenstaende in noch liegenden Leichen
+  gehen verloren -> vor dem Update alle Leichen leeren. Danach fallen Sachen beim Tod wieder normal auf den Boden
+  (verschwinden nach 5 min). Ladetest ohne Corpse (haengt ein anderer Mod davon ab? Pruefung wie bei VeinMiner).
 
 ## Erledigt in 0.1.10 (17.11.)
 - Fantasya 0.1.10: Iris-Wasserfix (Earth-Mobs-Pipeline), Trappermuetze/Elch/Emu/Laufvogel als armor3, Mantel-Absturz-Fix,
