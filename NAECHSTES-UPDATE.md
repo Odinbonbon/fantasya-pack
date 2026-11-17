@@ -17,3 +17,4 @@
 - Fantasya 0.1.9 (Morph-Korrekturen, Flug-Sperre für Bewusstlose, JEI-Fundorte mit Biomnamen statt Tag-Pfaden).
 - Gefährten 1.0.0 neu im Pack (KI-Begleiter; Ollama optional).
 - Spice of Life (Onion): Inventar-Knopf von 130/62 nach 154/-20 (oberhalb des Inventar-Rahmens rechts) - im Spiel ansehen.
+- Fantasya e46f2b88e (17.11. Nacht): Server-Absturz beim Tragen des Alchemistenmantels (kupfer_cloak) mit Solonion behoben -> neue Fantasya-Version ins Pack.
