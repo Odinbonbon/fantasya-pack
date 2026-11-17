@@ -26,6 +26,9 @@
   dass kein anderer Mod Kotlin braucht: Ladetest ohne KotlinLangForge) + VeinMiner-Config unter pack/config/;
   danach packwiz refresh (index.toml-Hashes). Beide nutzten Taste ^ -> sonst doppelt belegt.
 
+- Nutzer-Urteil 17.11. ~15:00: Kopfwippen im Pack als Vorgabe AUS (options.txt bobView:false bzw. Default-Options-Mechanik
+  des Packs); Ultimine vom Nutzer fuer gut befunden -> VeinMiner/KotlinLangForge-Entfernung bestaetigt.
+
 ## Erledigt in 0.1.9 (16.11.)
 - PlayerRevive raus (Mod + Config).
 - Fantasya 0.1.9 (Morph-Korrekturen, Flug-Sperre für Bewusstlose, JEI-Fundorte mit Biomnamen statt Tag-Pfaden).
