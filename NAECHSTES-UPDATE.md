@@ -19,6 +19,13 @@
   W1 TEIL 5: vanilla_overworld_region_weight 9 -> 4 (Fantasya-Regionen im Jar 8/8/6/8 statt 4/4/3/4), damit die Welt
   ueberwiegend aus Fantasya + BOP besteht -> braucht neues Fantasya-Jar.
 
+- U1 eigener Ultimine (17.11. Nacht, Fantasya U1): Taste ^ halten (Fantasya-Taste "Ultimine", Mausrad = Form:
+  Verbunden / Gang 1x2 / Tunnel 3x3 / Treppe runter / Treppe hoch, max 64, Hunger je Block, Vorschau-Umriss)
+  -> braucht neues Fantasya-Jar. DANN raus aus dem Pack: pack/mods/veinminer-neoforge-2.14.0.pw.toml,
+  veinminer-client-neoforge-2.14.0.pw.toml, KotlinLangForge-2.19.0-k2.4.21-3.1+neoforge.pw.toml (vorher pruefen,
+  dass kein anderer Mod Kotlin braucht: Ladetest ohne KotlinLangForge) + VeinMiner-Config unter pack/config/;
+  danach packwiz refresh (index.toml-Hashes). Beide nutzten Taste ^ -> sonst doppelt belegt.
+
 ## Erledigt in 0.1.9 (16.11.)
 - PlayerRevive raus (Mod + Config).
 - Fantasya 0.1.9 (Morph-Korrekturen, Flug-Sperre für Bewusstlose, JEI-Fundorte mit Biomnamen statt Tag-Pfaden).
