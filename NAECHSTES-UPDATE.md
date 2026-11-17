@@ -29,6 +29,11 @@
 - Nutzer-Urteil 17.11. ~15:00: Kopfwippen im Pack als Vorgabe AUS (options.txt bobView:false bzw. Default-Options-Mechanik
   des Packs); Ultimine vom Nutzer fuer gut befunden -> VeinMiner/KotlinLangForge-Entfernung bestaetigt.
 
+- Gefaehrten G6 (17.11.): Stimme + Push-to-Talk. Der Client startet tools/stimme/dienst.py selbst (Skripte in der Jar), braucht
+  aber Python + Modelle/venvs im Ordner `daten` (Vorgabe E:/AI/tts = nur Nutzer-PC). Fuer das oeffentliche Pack: Einrichtungs-
+  anleitung (Python, Piper-Minimalpaket als Rueckfall) + Vorgabe `daten` klaeren; xtts/damien NIE ins Pack (CPML), nur damien-frei.
+  Ohne Dienst: Begleiter schreiben nur im Chat, V meldet "Spracherkennung nicht erreichbar" - kein Absturz.
+
 ## Erledigt in 0.1.9 (16.11.)
 - PlayerRevive raus (Mod + Config).
 - Fantasya 0.1.9 (Morph-Korrekturen, Flug-Sperre für Bewusstlose, JEI-Fundorte mit Biomnamen statt Tag-Pfaden).
