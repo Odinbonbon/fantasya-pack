@@ -12,6 +12,11 @@
     ERLEDIGT Fantasya e9320a36a (I1 TEIL 0): alle vier als armor3-Skulpturen, im Spiel mit/ohne Shader geprueft
     -> braucht neues Fantasya-Jar.
 
+- W1 Weltgen (17.11. Nacht): Fantasya-Themenregionen sind jetzt TerraBlender-Regionen (Fantasya 1b337e432, TB Pflicht,
+  Oberwelt-Preset = Vanilla multi_noise). Pack config/terrablender.toml overworld_region_size 3 -> 5 (grosse
+  zusammenhaengende Themengebiete; schon eingetragen, Hash in index.toml/pack.toml neu) -> braucht neues Fantasya-Jar.
+  Bestehende Welten: neue Chunks folgen dem neuen Layout (Grenzen zum alten Gelaende moeglich) -> neue Welt empfehlen.
+
 ## Erledigt in 0.1.9 (16.11.)
 - PlayerRevive raus (Mod + Config).
 - Fantasya 0.1.9 (Morph-Korrekturen, Flug-Sperre für Bewusstlose, JEI-Fundorte mit Biomnamen statt Tag-Pfaden).

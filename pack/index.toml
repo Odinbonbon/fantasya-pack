@@ -1142,7 +1142,7 @@ hash = "88ac9fd71410c3ba66e5a775a4d38ebd3fec819184996f3d6c3091188532adb1"
 
 [[files]]
 file = "config/terrablender.toml"
-hash = "993b4fe6824d159cadc5e16790b27c07f1d09c55c3ff0a72353db21ce16ebc2b"
+hash = "48615618be150be56bdbeb19f8ee017b0b3c323d91ab12b2dcd9052189640f7e"
 
 [[files]]
 file = "config/terralith.json"
