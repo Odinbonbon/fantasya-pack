@@ -1,5 +1,11 @@
 # Für das nächste Pack-Update (nach 0.1.10)
 
+- Fallen Knights (Ender Zoology) VIEL SELTENER (Nutzer 17.11. ~22:30): Mod spawnt sie mit 1/4 Zombie-Gewicht in Gruppen 4-6
+  ueberall in der Oberwelt. Loesung = ZUSAMMEN ausliefern: (1) NEUE Pack-Datei config/enderzoology-common.toml (bisher nicht
+  im Pack, Vorlage = Nutzer-Instanz, dort schon `fallen_knight = false`) mit `fallen_knight = false` -> mk_update.py braucht
+  dafuer "Override neu anlegen"; (2) Fantasya-Jar mit data/fantasya/neoforge/biome_modifier/compat_enderzoology_fallen_knight.json
+  (fantasya 3da8f5ffc: Gewicht 3, 1-2 Stueck, nur wenn Ender Zoology geladen; Reittier kommt von selbst) = ~25x seltener.
+  Nur (1) ohne (2) = gar keine Ritter. Im Spiel ueber mehrere Naechte pruefen.
 - Corpse-Mod RAUS (Nutzer 17.11. ~22:20): pack/mods/corpse-*.pw.toml + Config corpse* entfernen (in mk_update.py RAUS =
   ["mods/corpse-"], OVERRIDES_RAUS = ["overrides/config/corpse"]). VORHER WARNEN: Gegenstaende in noch liegenden Leichen
   gehen verloren -> vor dem Update alle Leichen leeren. Danach fallen Sachen beim Tod wieder normal auf den Boden
