@@ -21,6 +21,8 @@ Minecraft **26.3** mit **NeoForge 26.3.0.99**: Fantasya, Iris + Solas-Shader, Be
 - **Ab 0.1.10 sprechen sie** (eigene Stimme je Begleiter) und hören zu: **Taste V halten** und reden. Dafür braucht es
   einen lokalen Stimmen-Dienst mit Python und Sprachmodellen (startet die Mod selbst, wenn er eingerichtet ist).
   Ohne ihn läuft alles über den Chat; `/gefaehrten_stimme status` zeigt den Zustand.
+  **Installer für NVIDIA-Karten:** [Gefährten-Stimme](https://github.com/Odinbonbon/fantasya-pack/releases/tag/stimme-1)
+  (eine `.cmd` zum Doppelklicken, richtet alles ein).
 - Ihre Erinnerungen liegen in der Welt (`saves/<Welt>/gefaehrten/`) und bleiben bei Updates erhalten.
 
 ## Zusammen spielen
