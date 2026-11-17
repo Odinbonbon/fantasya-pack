@@ -1,12 +1,12 @@
 name = "Fantasya"
 author = "Odinbonbon"
-version = "0.1.9"
+version = "0.1.10"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "0773a98229382acd53f2e1832fe4836b9ae1877ee92fb334967f59adab8fc662"
+hash = "8afed31cf9aabfb9891dfbf408460e4a9e796ad4af0644b98371682c299114da"
 
 [versions]
 minecraft = "26.3"

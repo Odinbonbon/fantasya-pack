@@ -1,38 +1,16 @@
-# Für das nächste Pack-Update (nach 0.1.9)
+# Für das nächste Pack-Update (nach 0.1.10)
 
-- Spieltest 16.11. abends (Screenshots 20:56 in fantasya-0.1.7):
-  - [x] Wasser: riesige schwarz-magenta Wand im Meer mit Shader = Earth-Mobs-Pipeline `animation_entity` (vermutl.
-    Tropen-Schleim), Iris kannte sie nicht ("Missing program ... in override list"). Fix Fantasya 2d0fde578
-    (IrisPipelineCompat meldet sie per Iris-API an) -> braucht neues Fantasya-Jar; im Spiel am Meer gegenpruefen
-    (Log muss "Iris: 1 pipeline(s) of ...ANIMATION_ENTITY -> ENTITIES" zeigen, kein "Missing program").
-  - [x] Trappermuetze (Waschbaer-Muetze, fantasya:frontier_cap): getragen nur flacher brauner Klotz (Textur
-    textures/entity/equipment/humanoid/frontier_cap.png = Kappe ohne Fell/Schwanz), in der Welt mit Shader rosa.
-    Hat kein armor2-Mesh -> als armor3-Voxel-Skulptur nachbauen (Fellmuetze + Waschbaerschwanz hinten, Muenze vorn
-    wie Item-Icon). Gleiches pruefen fuer emu_leggings, roadrunner_boots, moose_headgear (auch kein armor2-Mesh).
-    ERLEDIGT Fantasya e9320a36a (I1 TEIL 0): alle vier als armor3-Skulpturen, im Spiel mit/ohne Shader geprueft
-    -> braucht neues Fantasya-Jar.
+(leer)
 
-- W1 Weltgen (17.11. Nacht): Fantasya-Themenregionen sind jetzt TerraBlender-Regionen (Fantasya 1b337e432, TB Pflicht,
-  Oberwelt-Preset = Vanilla multi_noise). Pack config/terrablender.toml overworld_region_size 3 -> 5 (grosse
-  zusammenhaengende Themengebiete; schon eingetragen, Hash in index.toml/pack.toml neu) -> braucht neues Fantasya-Jar.
-  Bestehende Welten: neue Chunks folgen dem neuen Layout (Grenzen zum alten Gelaende moeglich) -> neue Welt empfehlen.
-  W1 TEIL 5: vanilla_overworld_region_weight 9 -> 4 (Fantasya-Regionen im Jar 8/8/6/8 statt 4/4/3/4), damit die Welt
-  ueberwiegend aus Fantasya + BOP besteht -> braucht neues Fantasya-Jar.
-
-- U1 eigener Ultimine (17.11. Nacht, Fantasya U1): Taste ^ halten (Fantasya-Taste "Ultimine", Mausrad = Form:
-  Verbunden / Gang 1x2 / Tunnel 3x3 / Treppe runter / Treppe hoch, max 64, Hunger je Block, Vorschau-Umriss)
-  -> braucht neues Fantasya-Jar. DANN raus aus dem Pack: pack/mods/veinminer-neoforge-2.14.0.pw.toml,
-  veinminer-client-neoforge-2.14.0.pw.toml, KotlinLangForge-2.19.0-k2.4.21-3.1+neoforge.pw.toml (vorher pruefen,
-  dass kein anderer Mod Kotlin braucht: Ladetest ohne KotlinLangForge) + VeinMiner-Config unter pack/config/;
-  danach packwiz refresh (index.toml-Hashes). Beide nutzten Taste ^ -> sonst doppelt belegt.
-
-- Nutzer-Urteil 17.11. ~15:00: Kopfwippen im Pack als Vorgabe AUS (options.txt bobView:false bzw. Default-Options-Mechanik
-  des Packs); Ultimine vom Nutzer fuer gut befunden -> VeinMiner/KotlinLangForge-Entfernung bestaetigt.
-
-- Gefaehrten G6 (17.11.): Stimme + Push-to-Talk. Der Client startet tools/stimme/dienst.py selbst (Skripte in der Jar), braucht
-  aber Python + Modelle/venvs im Ordner `daten` (Vorgabe E:/AI/tts = nur Nutzer-PC). Fuer das oeffentliche Pack: Einrichtungs-
-  anleitung (Python, Piper-Minimalpaket als Rueckfall) + Vorgabe `daten` klaeren; xtts/damien NIE ins Pack (CPML), nur damien-frei.
-  Ohne Dienst: Begleiter schreiben nur im Chat, V meldet "Spracherkennung nicht erreichbar" - kein Absturz.
+## Erledigt in 0.1.10 (17.11.)
+- Fantasya 0.1.10: Iris-Wasserfix (Earth-Mobs-Pipeline), Trappermuetze/Elch/Emu/Laufvogel als armor3, Mantel-Absturz-Fix,
+  W1 TerraBlender-Regionen (terrablender.toml region_size 5, vanilla weight 4), U1 eigener Ultimine.
+- Gefaehrten 1.1.0: Stimme + Push-to-Talk (V) + Dienst-Autostart. Offen fuers oeffentliche Pack: Einrichtungsanleitung
+  Stimmen-Dienst (Python, Piper-Minimalpaket), Vorgabe `daten`; xtts/damien NIE ins Pack.
+- VeinMiner (+ Config) raus. KotlinLangForge BLEIBT: Fzzy Config ist Kotlin (tomlkt, keine Kotlin-Stdlib im Jar) und
+  Subtle Effects braucht Fzzy Config.
+- options.txt bobView:false (Kopfwippen aus; wirkt nur bei neuen Instanzen, options.txt ist preserve).
+- Ladetest: alle 183 Instanz-Mods + Fantasya 0.1.10 im Gefaehrten-Dev-Client, Welt + ferne Chunks, kein Absturz.
 
 ## Erledigt in 0.1.9 (16.11.)
 - PlayerRevive raus (Mod + Config).

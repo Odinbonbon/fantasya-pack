@@ -1,0 +1,8 @@
+name = "gefaehrten-1.1.0"
+filename = "gefaehrten-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Odinbonbon/fantasya-pack/releases/download/v0.1.10/gefaehrten-1.1.0.jar"
+hash-format = "sha512"
+hash = "e365d1ff83e0643738f2f245b7e072c6b0da3a6bd82f81deb7d5df9e5d5cd1ca9f8f28748cb1decdf0f596c4240c781d10c21d61bf363c642c9932a409b67264"

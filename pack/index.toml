@@ -5,10 +5,6 @@ file = "config/DistantHorizons.toml"
 hash = "59bfbdb20a60f386be06e6416904bbe9d0a027935f9c262ab2b8e12a4433c80f"
 
 [[files]]
-file = "config/Veinminer/settings.json"
-hash = "1273c142b4a9e4c915bacfaaff3634023aedb8fc5a8a70245d150a5753bbdcac"
-
-[[files]]
 file = "config/advancednetherite-client.toml"
 hash = "f8c07c75bb06a3cca5c10a7bca924e96c2aa273b679f9cc1fa961ac50001977b"
 
@@ -1625,8 +1621,8 @@ hash = "2de00dbde0b240c082b9c548369d5bc86b83776dae8b7101402b33419a440184"
 metafile = true
 
 [[files]]
-file = "mods/fantasya-0.1.9.pw.toml"
-hash = "c902eb51670637d8c97f3064740684ed703f612dbed5bce1bc97890d542dc8e4"
+file = "mods/fantasya-0.1.10.pw.toml"
+hash = "3b6dbc8bde342062e2cc2a198599034f32c3dc529bcf10b44ee02e87ed12a4a4"
 metafile = true
 
 [[files]]
@@ -1675,8 +1671,8 @@ hash = "7e855da77e14d57d48ec2ed34a2f5697a9f7cf19579e596bdcef3fb39e659fa5"
 metafile = true
 
 [[files]]
-file = "mods/gefaehrten-1.0.0.pw.toml"
-hash = "5eedc5d31c283b7fe53cffbac3aaafda9dfea7e564f494c29025b12dbc2da63f"
+file = "mods/gefaehrten-1.1.0.pw.toml"
+hash = "964871e3fcd84831af9363621a50ff4fa5d74246294f3fb5339cc3b8ccf81e2a"
 metafile = true
 
 [[files]]
@@ -2120,16 +2116,6 @@ hash = "6b77e664e02c1726658eee4df3c317b9b8b9630d7fb44c65a144e55f88c2c675"
 metafile = true
 
 [[files]]
-file = "mods/veinminer-client-neoforge-2.14.0.pw.toml"
-hash = "d1a034228287150220dd26fb964fb34e99646538f633d3437ae530448971d81c"
-metafile = true
-
-[[files]]
-file = "mods/veinminer-neoforge-2.14.0.pw.toml"
-hash = "3022142235f9c75daa366de009cd38aeb69092c9af907ff6d51a27765bc2cca4"
-metafile = true
-
-[[files]]
 file = "mods/village-taverns-Nz4cmKvg.pw.toml"
 hash = "168fe6f4dee95f7074af1cf6b55c8cb2d9fd5e3cc49966973a965bdfbeee963f"
 metafile = true
@@ -2171,7 +2157,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "b0985e69d0e33f1994e9ed5f82dd31c19aa979083bf83e858f8d5b986e8f087b"
+hash = "1b16aa45ab4b64e59e0f24729bafb2993303ad7e4f0e1767949bee1172e390ea"
 preserve = true
 
 [[files]]

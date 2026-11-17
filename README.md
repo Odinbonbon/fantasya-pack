@@ -18,6 +18,9 @@ Minecraft **26.3** mit **NeoForge 26.3.0.99**: Fantasya, Iris + Solas-Shader, Be
 - Alle Befehle und Antworten funktionieren **ohne KI**. Wer frei mit ihnen reden will, installiert
   [Ollama](https://ollama.com) und lädt einmal das kleine Modell: `ollama pull qwen3:4b` (ca. 2,5 GB). Ollama muss nur
   bei dem laufen, der die Welt hostet.
+- **Ab 0.1.10 sprechen sie** (eigene Stimme je Begleiter) und hören zu: **Taste V halten** und reden. Dafür braucht es
+  einen lokalen Stimmen-Dienst mit Python und Sprachmodellen (startet die Mod selbst, wenn er eingerichtet ist).
+  Ohne ihn läuft alles über den Chat; `/gefaehrten_stimme status` zeigt den Zustand.
 - Ihre Erinnerungen liegen in der Welt (`saves/<Welt>/gefaehrten/`) und bleiben bei Updates erhalten.
 
 ## Zusammen spielen
