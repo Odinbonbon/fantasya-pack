@@ -16,6 +16,8 @@
   Oberwelt-Preset = Vanilla multi_noise). Pack config/terrablender.toml overworld_region_size 3 -> 5 (grosse
   zusammenhaengende Themengebiete; schon eingetragen, Hash in index.toml/pack.toml neu) -> braucht neues Fantasya-Jar.
   Bestehende Welten: neue Chunks folgen dem neuen Layout (Grenzen zum alten Gelaende moeglich) -> neue Welt empfehlen.
+  W1 TEIL 5: vanilla_overworld_region_weight 9 -> 4 (Fantasya-Regionen im Jar 8/8/6/8 statt 4/4/3/4), damit die Welt
+  ueberwiegend aus Fantasya + BOP besteht -> braucht neues Fantasya-Jar.
 
 ## Erledigt in 0.1.9 (16.11.)
 - PlayerRevive raus (Mod + Config).
