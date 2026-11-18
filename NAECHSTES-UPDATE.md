@@ -34,3 +34,4 @@
 - Gefährten 1.0.0 neu im Pack (KI-Begleiter; Ollama optional).
 - Spice of Life (Onion): Inventar-Knopf von 130/62 nach 154/-20 (oberhalb des Inventar-Rahmens rechts) - im Spiel ansehen.
 - Fantasya e46f2b88e (17.11. Nacht): Server-Absturz beim Tragen des Alchemistenmantels (kupfer_cloak) mit Solonion behoben -> neue Fantasya-Version ins Pack.
+- Eribion 7d88be8 (18.11.): Daemmerung heller (ownDusk 10, ownDuskGi 4,5) + weisse Sonnenscheibe. Wer die Regler Daemmerungslicht/Daemmerung indirekt einmal verstellt hat, behaelt seinen Wert (eribion.properties) - im Changelog erwaehnen.
