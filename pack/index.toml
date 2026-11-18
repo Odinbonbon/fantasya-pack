@@ -1670,8 +1670,8 @@ hash = "7e855da77e14d57d48ec2ed34a2f5697a9f7cf19579e596bdcef3fb39e659fa5"
 metafile = true
 
 [[files]]
-file = "mods/gefaehrten-1.2.0.pw.toml"
-hash = "34772d263e008113baa992e1ef753857625f030c925d5c2ef08cc9cfc90246fa"
+file = "mods/gefaehrten-1.2.1.pw.toml"
+hash = "44586d5b80b961d25260d81a3d5980175874f64b7cd77672a99497f0ab56b424"
 metafile = true
 
 [[files]]
