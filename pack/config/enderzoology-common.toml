@@ -1,0 +1,28 @@
+#Should dire wolves spawn anywhere in snowy biomes where wolves can spawn in the overworld.
+#Default Value: true
+#Requires Restart: World
+dire_wolf = true
+#Should enderminies spawn anywhere where enderman can spawn in the overworld.
+#Default Value: true
+#Requires Restart: World
+enderminy = true
+#Should infested zombies spawn anywhere where zombies can spawn in the overworld.
+#Default Value: true
+#Requires Restart: World
+infested_zombie = true
+#Should fallen knights together with their mounts spawn anywhere where zombies can spawn in the overworld.
+#Default Value: true
+#Requires Restart: World
+fallen_knight = false
+#Should concussion creepers spawn anywhere where creepers can spawn in the overworld.
+#Default Value: true
+#Requires Restart: World
+concussion_creeper = true
+#Should owls spawn anywhere where rabbits can spawn in the overworld.
+#Default Value: true
+#Requires Restart: World
+owl = true
+#Should wither witches spawn anywhere where witches can spawn in the overworld.
+#Default Value: true
+#Requires Restart: World
+wither_witch = true

@@ -653,6 +653,10 @@ file = "config/ecologics-startup.toml"
 hash = "7a196d3e3e6435eca30e8f76b03f16a5cc938cabfa20155612824fc5690d4c0a"
 
 [[files]]
+file = "config/enderzoology-common.toml"
+hash = "1373924630d38f50d22ea7d5e7f4ba3693e92937e2097ecfb47debcb219afb62"
+
+[[files]]
 file = "config/entity_model_features.json"
 hash = "e0f8ab833d6b4625b6a0566ef2c1b6010368f05003508fc30f96aa5275690cd4"
 
@@ -1134,7 +1138,7 @@ hash = "6c1229abb5bf8774eedd8d0e88f03957fed14e557d6b2dc19ea34f0b105101f9"
 
 [[files]]
 file = "config/tectonic.json"
-hash = "88ac9fd71410c3ba66e5a775a4d38ebd3fec819184996f3d6c3091188532adb1"
+hash = "327bdec21ee1ad9f5998680b0d47ae55d4e6919fb4d2e3c20c1ee8b90bd3033c"
 
 [[files]]
 file = "config/terrablender.toml"
@@ -1496,11 +1500,6 @@ hash = "9791426ba5f3761e15c2276e54b646819dc60b44e9f1145d715cc43ae82c1972"
 metafile = true
 
 [[files]]
-file = "mods/corpse-neoforge-1.1.22+26.3.pw.toml"
-hash = "b02b8755753e0f2ce51eb51864d5885b954fde83322ceea9dad53cda176c4230"
-metafile = true
-
-[[files]]
 file = "mods/creativecore-Jyax6gDi.pw.toml"
 hash = "87fe011c994e25c7272c1cdc8f650c107ec273a28590be6254e85099dacfa2ca"
 metafile = true
@@ -1621,8 +1620,8 @@ hash = "2de00dbde0b240c082b9c548369d5bc86b83776dae8b7101402b33419a440184"
 metafile = true
 
 [[files]]
-file = "mods/fantasya-0.1.10.pw.toml"
-hash = "3b6dbc8bde342062e2cc2a198599034f32c3dc529bcf10b44ee02e87ed12a4a4"
+file = "mods/fantasya-0.1.11.pw.toml"
+hash = "b51686a593c7e49c329feb883923eef381b3dcf57fec2c6396554c61e46d1418"
 metafile = true
 
 [[files]]
@@ -1671,8 +1670,8 @@ hash = "7e855da77e14d57d48ec2ed34a2f5697a9f7cf19579e596bdcef3fb39e659fa5"
 metafile = true
 
 [[files]]
-file = "mods/gefaehrten-1.1.0.pw.toml"
-hash = "964871e3fcd84831af9363621a50ff4fa5d74246294f3fb5339cc3b8ccf81e2a"
+file = "mods/gefaehrten-1.2.0.pw.toml"
+hash = "34772d263e008113baa992e1ef753857625f030c925d5c2ef08cc9cfc90246fa"
 metafile = true
 
 [[files]]
