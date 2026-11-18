@@ -6,6 +6,9 @@
   dafuer "Override neu anlegen"; (2) Fantasya-Jar mit data/fantasya/neoforge/biome_modifier/compat_enderzoology_fallen_knight.json
   (fantasya 3da8f5ffc: Gewicht 3, 1-2 Stueck, nur wenn Ender Zoology geladen; Reittier kommt von selbst) = ~25x seltener.
   Nur (1) ohne (2) = gar keine Ritter. Im Spiel ueber mehrere Naechte pruefen.
+- Vanilla-Erze gedrosselt (V3 f, Nutzer "zu haeufig"): steckt im Fantasya-Jar (data/minecraft/worldgen/placed_feature/ore_*),
+  gilt nur fuer NEUE Chunks. Je Chunk mit Pack-Weltgen: Diamant 24 -> 12, Redstone 35 -> 25, Lapis 22 -> 15, Gold 25 -> 19;
+  Eisen/Kohle/Kupfer unveraendert. In der Release-Notiz erwaehnen (alte Welt behaelt ihre schon erzeugten Erze).
 - Corpse-Mod RAUS (Nutzer 17.11. ~22:20): pack/mods/corpse-*.pw.toml + Config corpse* entfernen (in mk_update.py RAUS =
   ["mods/corpse-"], OVERRIDES_RAUS = ["overrides/config/corpse"]). VORHER WARNEN: Gegenstaende in noch liegenden Leichen
   gehen verloren -> vor dem Update alle Leichen leeren. Danach fallen Sachen beim Tod wieder normal auf den Boden
