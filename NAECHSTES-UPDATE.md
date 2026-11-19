@@ -1,6 +1,10 @@
-# Für das nächste Pack-Update (nach 0.1.11)
+# Für das nächste Pack-Update (nach 0.1.12)
 
 (noch nichts offen)
+
+## Erledigt in 0.1.12 (19.11.)
+- M-AUFTEILUNG Teil 1: Fantasya Deko als eigene Jar fantasya_deco-1.0.0 (Namensraum fantasya_deco wie vorher,
+  Werkbank-Alias fantasya:decor_bench), Fantasya 0.1.12 (Kern ohne Deko). Gefaehrten 1.2.3.
 
 ## Erledigt in 0.1.11 (18.11.)
 - Fantasya 0.1.11 (NS1 Sternenstahl, NS2 Runenschmied, SP1 Schultertiere, PS1 Pilzsuppen, V2/V3) + Gefaehrten 1.2.0 (G5c, G6d, G7).

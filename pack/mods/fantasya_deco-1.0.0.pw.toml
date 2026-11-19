@@ -1,0 +1,8 @@
+name = "fantasya_deco-1.0.0"
+filename = "fantasya_deco-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Odinbonbon/fantasya-pack/releases/download/v0.1.12/fantasya_deco-1.0.0.jar"
+hash-format = "sha512"
+hash = "1bd8067066b8f0c71d52a4e41ddd836d1161fee2c45d494a7d7402e53987abd324597650b1270e1839e0b481ba840d8661cfbf2d46486eb13bda96882a8bb44e"

@@ -1620,8 +1620,13 @@ hash = "2de00dbde0b240c082b9c548369d5bc86b83776dae8b7101402b33419a440184"
 metafile = true
 
 [[files]]
-file = "mods/fantasya-0.1.11.pw.toml"
-hash = "b51686a593c7e49c329feb883923eef381b3dcf57fec2c6396554c61e46d1418"
+file = "mods/fantasya-0.1.12.pw.toml"
+hash = "e4e25bd39d61f6293c66640e845b66ffcb68a9223d4c92c8af6571fe46fc7f35"
+metafile = true
+
+[[files]]
+file = "mods/fantasya_deco-1.0.0.pw.toml"
+hash = "0d251c949df7e4bcd0e291f4a61004b690a6bfa87db36a107d71c4d5f08db59b"
 metafile = true
 
 [[files]]
@@ -1671,7 +1676,7 @@ metafile = true
 
 [[files]]
 file = "mods/gefaehrten-1.2.3.pw.toml"
-hash = "ab738e88e97ecdab91a74b14fa814f2226ec9800002e01044a128b4fc615e43e"
+hash = "57b4690ac87ffab0b7b2b7ddb89092e6a5eaccbf224cc0914a27dd13e0da5976"
 metafile = true
 
 [[files]]

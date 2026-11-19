@@ -3,6 +3,6 @@ filename = "gefaehrten-1.2.3.jar"
 side = "both"
 
 [download]
-url = "https://github.com/Odinbonbon/fantasya-pack/releases/download/v0.1.11/gefaehrten-1.2.3.jar"
+url = "https://github.com/Odinbonbon/fantasya-pack/releases/download/v0.1.12/gefaehrten-1.2.3.jar"
 hash-format = "sha512"
 hash = "e1c350ce89090f51cab34ed8fb26f4867ea299277235ce6e374f2e54361cf1d5b58c1b4b4ba5d6432d39c41435d5954ac111b5603a8a61683b639ae626fab42c"
