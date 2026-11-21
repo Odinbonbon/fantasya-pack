@@ -1,0 +1,8 @@
+name = "fantasya_flans-1.0.0"
+filename = "fantasya_flans-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Odinbonbon/fantasya-pack/releases/download/v0.1.13/fantasya_flans-1.0.0.jar"
+hash-format = "sha512"
+hash = "00c1bd565cb4c0bc2c4b2f4682ed0e45ae74a94577ca339583b7d3bb43884e2977d83aea547db8a6eb7d717c6ae5e150d48ae452b4deae90518aa9680483a5ed"

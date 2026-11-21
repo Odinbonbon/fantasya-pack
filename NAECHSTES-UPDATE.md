@@ -1,6 +1,12 @@
-# Für das nächste Pack-Update (nach 0.1.12)
+# Für das nächste Pack-Update (nach 0.1.13)
 
 (noch nichts offen)
+
+## Erledigt in 0.1.13 (21.11.)
+- Fantasya 0.1.13: Themenregionen Gewicht je 1 (config/fantasya-worldgen.properties, ~9 % des Landes statt 43 %),
+  terrablender overworld_region_size 5 -> 4 (alle Biom-Mods, nur neue Chunks), kein Fantasya-Nebelabstand mit Distant Horizons,
+  End-/Kristalltiere spawnen wieder (Animal Feeding Trough), Flan's als eigene Jar fantasya_flans-1.0.0.
+- Diorama 0.11.0 statt JourneyMap (+ config/journeymap-synced.toml raus). Diorama + JourneyMap zusammen stuerzten ab.
 
 ## Erledigt in 0.1.12 (19.11.)
 - 21.11. nachgeschoben (Client-Ladetest mit allen Pack-Mods gruen): Punchy! Moves, Spatial GUI, Wandering Traveler, Hoverboards, Immersive Panoramas, Jacaranda, Do Another Barrel Roll, Ancient Cities, Animal Garden (Waschbaer, Capybara, Pavian; + Aquarius Libs), Distant Horizons 3.3.4 + Turbo, Ressourcenpaket Fluid & Foolish (nicht voreingestellt aktiv).

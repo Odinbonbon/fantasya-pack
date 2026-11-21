@@ -1,0 +1,8 @@
+name = "fantasya-0.1.13"
+filename = "fantasya-0.1.13.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Odinbonbon/fantasya-pack/releases/download/v0.1.13/fantasya-0.1.13.jar"
+hash-format = "sha512"
+hash = "6ff0a444ed38e4f92609419861c375b3a13692bb253947041ee80fc35dc7eca6569f0314bb8cab2d207209d0d49ad1e8f1213d387958f33789af9bdbf06049e4"

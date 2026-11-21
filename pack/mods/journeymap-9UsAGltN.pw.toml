@@ -1,8 +1,0 @@
-name = "journeymap-9UsAGltN"
-filename = "journeymap-9UsAGltN.jar"
-side = "both"
-
-[download]
-url = "https://cdn.modrinth.com/data/lfHFW1mp/versions/9UsAGltN/journeymap-neoforge-26.3-6.0.10.jar"
-hash-format = "sha512"
-hash = "002e70af8e9b5c3fb7968b9b6f92317f1ef5e88e643d233ca138cb2df37828a8ff186e2e2aaaa389a5101cee0107cd6a098024226fe84311ef6d4cc7378750aa"

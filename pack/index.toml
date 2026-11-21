@@ -857,10 +857,6 @@ file = "config/jewelry/villages.json"
 hash = "3a0ad1c6bf844e60952867bbb67ebac157ce720a9904362b4a26d6048096a5f8"
 
 [[files]]
-file = "config/journeymap-synced.toml"
-hash = "914e767b44a8e0504767fa60bd1e3779259f6363afb299ed4282b9001f7db61b"
-
-[[files]]
 file = "config/lithium.properties"
 hash = "6cf6f83720071fd1657c8e79b357caf68d40f410ae123e5f922483eb1d1d25be"
 
@@ -1142,7 +1138,7 @@ hash = "327bdec21ee1ad9f5998680b0d47ae55d4e6919fb4d2e3c20c1ee8b90bd3033c"
 
 [[files]]
 file = "config/terrablender.toml"
-hash = "0ca8b3f7049880b7eda02ce1a9de8395db661f753b66787e395f81d935d5b1c5"
+hash = "cbddebdfedf723c9b438f96cdc60e523573ffa7350e6d68da982525619a74b9e"
 
 [[files]]
 file = "config/terralith.json"
@@ -1575,6 +1571,11 @@ hash = "97950d8a4008b0db726c46c65b69ec67b3b40018d5d4a78a7bebd425c8d350a2"
 metafile = true
 
 [[files]]
+file = "mods/diorama-0.11.0+neoforge-26.3.pw.toml"
+hash = "3ea9867fdb4323ed2e4faadaf019927517d587c6de64b67ad2e25909879a54e9"
+metafile = true
+
+[[files]]
 file = "mods/dragonkind-evolved-1.15.pw.toml"
 hash = "a8332cb178998f3721d15537869d43974967341406a6c9a3c86d244317ee90ce"
 metafile = true
@@ -1670,13 +1671,18 @@ hash = "2de00dbde0b240c082b9c548369d5bc86b83776dae8b7101402b33419a440184"
 metafile = true
 
 [[files]]
-file = "mods/fantasya-0.1.12.pw.toml"
-hash = "e4e25bd39d61f6293c66640e845b66ffcb68a9223d4c92c8af6571fe46fc7f35"
+file = "mods/fantasya-0.1.13.pw.toml"
+hash = "2315c9a3746b6eeea539947e6f3c0352d243c659020e05ca52c1f0311eaac1d1"
 metafile = true
 
 [[files]]
 file = "mods/fantasya_deco-1.0.0.pw.toml"
-hash = "0d251c949df7e4bcd0e291f4a61004b690a6bfa87db36a107d71c4d5f08db59b"
+hash = "6489704e23f97ed82007cb5ed1133627e783304055d9ca7bad7aed415880dfb5"
+metafile = true
+
+[[files]]
+file = "mods/fantasya_flans-1.0.0.pw.toml"
+hash = "a7810f026c33ebb6272b4017f18ef65ffa12073c5105b01e5ad5752c511be62d"
 metafile = true
 
 [[files]]
@@ -1726,7 +1732,7 @@ metafile = true
 
 [[files]]
 file = "mods/gefaehrten-1.2.5.pw.toml"
-hash = "55a82f07238d400526d1560ae2dafbde76e3c7d97f29d44eaa47ed7d8fd5f86d"
+hash = "0f6b815f750244899c50e1f54429d29e7a8601fcf936e05b33bec1e7b8dfbff9"
 metafile = true
 
 [[files]]
@@ -1822,11 +1828,6 @@ metafile = true
 [[files]]
 file = "mods/jei-26.3-neoforge-31.16.0.90.pw.toml"
 hash = "2c17267f95a5686f56ea7faa71005d4cc1899dedd8024c50ff84a3b4340be31a"
-metafile = true
-
-[[files]]
-file = "mods/journeymap-9UsAGltN.pw.toml"
-hash = "8e22d1e2d0d3768608cfbb2bc444d921b0329ec7177496316371d3682aa848e2"
 metafile = true
 
 [[files]]
