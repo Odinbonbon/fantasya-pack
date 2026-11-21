@@ -1675,8 +1675,8 @@ hash = "7e855da77e14d57d48ec2ed34a2f5697a9f7cf19579e596bdcef3fb39e659fa5"
 metafile = true
 
 [[files]]
-file = "mods/gefaehrten-1.2.3.pw.toml"
-hash = "57b4690ac87ffab0b7b2b7ddb89092e6a5eaccbf224cc0914a27dd13e0da5976"
+file = "mods/gefaehrten-1.2.4.pw.toml"
+hash = "ef59414da327bffd98981c284acc2e81b2973c51cac84819056cdcaf47fe179c"
 metafile = true
 
 [[files]]

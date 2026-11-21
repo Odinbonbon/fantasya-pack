@@ -3,6 +3,7 @@
 (noch nichts offen)
 
 ## Erledigt in 0.1.12 (19.11.)
+- 21.11. nachgeschoben: Gefaehrten 1.2.4 (startet Ollama selbst + laedt fehlendes Modell, stumme Mikrofone werden uebersprungen).
 - M-AUFTEILUNG Teil 1: Fantasya Deko als eigene Jar fantasya_deco-1.0.0 (Namensraum fantasya_deco wie vorher,
   Werkbank-Alias fantasya:decor_bench), Fantasya 0.1.12 (Kern ohne Deko). Gefaehrten 1.2.3.
 
