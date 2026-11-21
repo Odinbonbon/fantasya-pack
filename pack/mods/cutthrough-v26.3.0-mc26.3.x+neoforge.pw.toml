@@ -1,0 +1,8 @@
+name = "cutthrough-v26.3.0-mc26.3.x+neoforge"
+filename = "cutthrough-v26.3.0-mc26.3.x+neoforge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Dk6su9JN/versions/cuq9AanR/cutthrough-v26.3.0-mc26.3.x%2Bneoforge.jar"
+hash-format = "sha512"
+hash = "c2b678ecc6b8a3988b0f15403f3483eee90e7349718d64540dab155bd590e380e8e99e9f23a1d7d60cb44e9be774b62b4ea05d1dd937aeef923cb3ad9201844d"

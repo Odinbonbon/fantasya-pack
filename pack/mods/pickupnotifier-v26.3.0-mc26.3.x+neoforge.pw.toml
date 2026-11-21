@@ -1,0 +1,8 @@
+name = "pickupnotifier-v26.3.0-mc26.3.x+neoforge"
+filename = "pickupnotifier-v26.3.0-mc26.3.x+neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZX66K16c/versions/YXI1Cup6/pickupnotifier-v26.3.0-mc26.3.x%2Bneoforge.jar"
+hash-format = "sha512"
+hash = "d784cdd32d40818af3caae0fce8dbdddb1888ed007af6dcd22dbfc7f9574900cab221e51a45527b5a0b114ae1b5eb60bd46f496b3c43db5b71a6bab7568aec69"

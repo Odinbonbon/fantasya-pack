@@ -1,0 +1,8 @@
+name = "letmedespawn-neoforge-26.3-1.26.11.1"
+filename = "letmedespawn-neoforge-26.3-1.26.11.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/vE2FN5qn/versions/oMnTQUvP/letmedespawn-neoforge-26.3-1.26.11.1.jar"
+hash-format = "sha512"
+hash = "344d77642c6bc462f68fbedd8c5aad1d5625d5c3db5c442d6a0737847949cf09b0b7f88a4c38e298e163af0454f0e1f1ae4359c10c95a56ecdb299625a34aca2"

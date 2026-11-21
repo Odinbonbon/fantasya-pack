@@ -1,6 +1,12 @@
-# Für das nächste Pack-Update (nach 0.1.13)
+# Für das nächste Pack-Update (nach 0.1.14)
 
 (noch nichts offen)
+
+## Erledigt in 0.1.14 (21.11.)
+- Fantasya 0.1.14: Lock-Minispiele langsamer (Dietrich, Runenfolge, Draehte), jeder Fehlversuch senkt die Beute der Truhe um eine Stufe.
+- Neu: Neruina, Clumps, Let Me Despawn, Inventory Profiles Next (+ libIPN), Cut Through, Pick Up Notifier, Chat Heads (+ Configurable, Almanac).
+  Neruina stuerzt im Dev-Client absichtlich ab (@DevOnly-Testmixins) - fuer Ladetests aus run-ladetest/mods nehmen.
+- Lootr NICHT: Fantasya hat eigene Spieler-Beute (PlayerLoot) fuer alle Kisten/Faesser mit Beutetabelle, auch aus Fremd-Strukturen.
 
 ## Erledigt in 0.1.13 (21.11.)
 - Fantasya 0.1.13: Themenregionen Gewicht je 1 (config/fantasya-worldgen.properties, ~9 % des Landes statt 43 %),

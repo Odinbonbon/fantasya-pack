@@ -1,0 +1,8 @@
+name = "neruina-3.3.5+26.3-neoforge"
+filename = "neruina-3.3.5+26.3-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1s5x833P/versions/RlwxHw6E/neruina-3.3.5%2B26.3-neoforge.jar"
+hash-format = "sha512"
+hash = "4e222a9c68117e3df304f44b4f2cf728cb8534d108de8e6d8243e8cb643cffe3db05c8edbb80b8b9dea8e3b8d31946508bea98c61cc5b4954dbf380db244026a"
