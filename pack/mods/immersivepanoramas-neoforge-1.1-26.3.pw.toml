@@ -1,0 +1,8 @@
+name = "immersivepanoramas-neoforge-1.1-26.3"
+filename = "immersivepanoramas-neoforge-1.1-26.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/U4f1Udr7/versions/w2KLd6nN/immersivepanoramas-neoforge-1.1-26.3.jar"
+hash-format = "sha512"
+hash = "cc0071c4c24b8cb7f13dd2d3f966d5469e60b5e42da83671f3063dbe502a68750db5ca90bf0909a48ec45295044b94a7a8480d748738695e9165392d220107a4"

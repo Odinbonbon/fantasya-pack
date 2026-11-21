@@ -1,0 +1,8 @@
+name = "animalgarden-olivebaboon-1.0.0-neoforge-26.3.0.7"
+filename = "animalgarden-olivebaboon-1.0.0-neoforge-26.3.0.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MP3x3vuY/versions/MOWOF79z/animalgarden-olivebaboon-1.0.0-neoforge-26.3.0.7.jar"
+hash-format = "sha512"
+hash = "199c4e8e6c587eda57e2e206fa6dd80b818a6fdf104d3dec8264d9d8d41a2adaffb7206fb6e976fc6559716abf7c7912d9d22b0dec5ae6a5cc49126b439bf9d4"

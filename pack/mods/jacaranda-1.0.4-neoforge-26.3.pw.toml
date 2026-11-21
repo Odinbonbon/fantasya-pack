@@ -1,0 +1,8 @@
+name = "jacaranda-1.0.4-neoforge-26.3"
+filename = "jacaranda-1.0.4-neoforge-26.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/yLDE8hgv/versions/jMEeFoGW/jacaranda-1.0.4-neoforge-26.3.jar"
+hash-format = "sha512"
+hash = "417f0ff18501dd73adc18d2ffc182e1824bb38ef2b32b204bd2472291022e0e63d0bfe047652f440cd5d8a06bd71b64b76c7041df185b94f6f9f384cefeab635"

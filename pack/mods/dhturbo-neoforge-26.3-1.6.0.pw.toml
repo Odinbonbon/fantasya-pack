@@ -1,0 +1,8 @@
+name = "dhturbo-neoforge-26.3-1.6.0"
+filename = "dhturbo-neoforge-26.3-1.6.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hPK04GEA/versions/yt0PbjBO/dhturbo-neoforge-26.3-1.6.0.jar"
+hash-format = "sha512"
+hash = "1f3be3d1bd57c8f9d784791b33023bc7a486a0c77988f45c1e8a669dc562803facfc9905a15a7df3620ec056477354c7edfe1dee2af37dc68febeca7eb62aaa4"

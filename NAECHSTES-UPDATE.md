@@ -3,6 +3,9 @@
 (noch nichts offen)
 
 ## Erledigt in 0.1.12 (19.11.)
+- 21.11. nachgeschoben (Client-Ladetest mit allen Pack-Mods gruen): Punchy! Moves, Spatial GUI, Wandering Traveler, Hoverboards, Immersive Panoramas, Jacaranda, Do Another Barrel Roll, Ancient Cities, Animal Garden (Waschbaer, Capybara, Pavian; + Aquarius Libs), Distant Horizons 3.3.4 + Turbo, Ressourcenpaket Fluid & Foolish (nicht voreingestellt aktiv).
+- NICHT drin: Diorama 0.11.0 - Client-Absturz nach Teleport ("Texture view Sampler0 horse_white.png has been closed" im GuiRenderer, vermutlich Radar-Gesichter); JourneyMap bleibt deshalb. Nutzerwunsch: JourneyMap raus, sobald Diorama stabil ist.
+- Fuer naechste Fantasya-Jar: EndAnimal.isFood null-sicher (End-/Kristalltiere spawnten mit Animal Feeding Trough nicht: "Failed to create mob").
 - 21.11. nachgeschoben: Aquaculture 2.11.3 + Baubley Heart Canisters 26.3-1.9.0 (Ladetest Server ok). Powah 9.0.0-alpha NICHT: braucht GuideME 26.3.7 und das NeoForge >= 26.3.0.100 (Pack .99).
 - 21.11. nachgeschoben: Gefaehrten 1.2.5 (Vorgabe-Modell gemma3:4b, alte Configs werden einmalig umgestellt; 1.2.4: startet Ollama selbst + laedt fehlendes Modell, stumme Mikrofone werden uebersprungen).
 - M-AUFTEILUNG Teil 1: Fantasya Deko als eigene Jar fantasya_deco-1.0.0 (Namensraum fantasya_deco wie vorher,

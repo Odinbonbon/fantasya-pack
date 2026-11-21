@@ -1,0 +1,8 @@
+name = "punchy-moves-1.0.9-neoforge-26.3"
+filename = "punchy-moves-1.0.9-neoforge-26.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mzgtK8pY/versions/NSDSyQ5L/punchy-moves-1.0.9-neoforge-26.3.jar"
+hash-format = "sha512"
+hash = "5c2d656898459ec8248eea596f0d6ca15fb4ccc7209185fbd7cb2c86600b3c2215e9ff9b2f7a7e02001ba4487478e728a9429911ab56d4b6e0dbe8ee79f23814"

@@ -1,0 +1,8 @@
+name = "DoAnotherBarrelRoll-3.8.2+26.3"
+filename = "DoAnotherBarrelRoll-3.8.2+26.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RnDXpaMX/versions/VK6ZfzTQ/DoAnotherBarrelRoll-3.8.2%2B26.3.jar"
+hash-format = "sha512"
+hash = "fed187b03be764a6a8bf04dc5cde20f0101a31daf9b7f060192821f88fa325bc38a199a4281a9bd14ee29c0d3202782a791d4d17e67a1a5975e60bac5dd28af9"

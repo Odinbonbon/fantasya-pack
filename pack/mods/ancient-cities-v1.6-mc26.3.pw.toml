@@ -1,0 +1,8 @@
+name = "ancient-cities-v1.6-mc26.3"
+filename = "ancient-cities-v1.6-mc26.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Rq3ZtyZO/versions/qctfFhYv/ancient-cities-v1.6-mc26.3.jar"
+hash-format = "sha512"
+hash = "022e89499d8eb549afa91d62681796a098dae3602a04c5cb589694cc3a99135d3a5f5ad5c1085291efae058017d126e4b2e69df16472eb5735693a72d4f52c8a"

@@ -1,0 +1,8 @@
+name = "aquariuslibs-1.2.0-neoforge-26.3.0.1"
+filename = "aquariuslibs-1.2.0-neoforge-26.3.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KkHnyaL6/versions/5JFI9ni1/aquariuslibs-1.2.0-neoforge-26.3.0.1.jar"
+hash-format = "sha512"
+hash = "79ffcaed7426dc38595fc3335a4e4ebc688ac4cb52d06f3f86bae8c007a29144fc87963219c5be39f3f48faa08024825a96f25ae37f3ff9408ffd7f82414a650"

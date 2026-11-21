@@ -1275,6 +1275,16 @@ hash = "4e1460e0fdb4d91997312cf94e525f88def10cb8306beb896b2138125d2005f5"
 metafile = true
 
 [[files]]
+file = "mods/DistantHorizons-3.3.4-26.3-fabric-neoforge.pw.toml"
+hash = "83230f4eeb4589a7cc91763c91aba3609437fc239b9d155e218c05b3d0ef0fd7"
+metafile = true
+
+[[files]]
+file = "mods/DoAnotherBarrelRoll-3.8.2+26.3.pw.toml"
+hash = "a6fbc86030f504c5f521235b943d1b788d1ce6ec1ac348a459da4d82cc56ecbc"
+metafile = true
+
+[[files]]
 file = "mods/Drip Sounds-0.6.3+26.3-NeoForge.pw.toml"
 hash = "4baeefdf52a1cd84c3bc4736be50e8bc2d058c2fc7bd8b633e980d175ccafac8"
 metafile = true
@@ -1400,8 +1410,28 @@ hash = "8ad1a523a123dd07a9f033e36d75835d1e8bd4a588b01701fb7e47abdbdc7873"
 metafile = true
 
 [[files]]
+file = "mods/ancient-cities-v1.6-mc26.3.pw.toml"
+hash = "85a3d8650d3a10aad621b54f0c8726b4effa227863e50091f819abbea60995ad"
+metafile = true
+
+[[files]]
 file = "mods/animal_feeding_trough-1.2.1+26.3-neoforge.pw.toml"
 hash = "9d6fc3fb4b8e5e25e1b32f5da528190943786f664eb5b72046d4412ba9fab27a"
+metafile = true
+
+[[files]]
+file = "mods/animalgarden-capybara-1.0.0-neoforge-26.3.0.1.pw.toml"
+hash = "6e9eef0840e17a75613512e94bf3eaa6ebbf87694e1d6837f0815cf3d45146c8"
+metafile = true
+
+[[files]]
+file = "mods/animalgarden-commonraccoon-1.0.0-neoforge-26.3.0.7.pw.toml"
+hash = "414384047fe037fd5788b606fa3e2d0d1f13b1933b983eff99b36c5771d273dc"
+metafile = true
+
+[[files]]
+file = "mods/animalgarden-olivebaboon-1.0.0-neoforge-26.3.0.7.pw.toml"
+hash = "4ec6059570480caa48bfbdb90d3f43e0406819f7f8dfb9835dbf816e8a28ca1e"
 metafile = true
 
 [[files]]
@@ -1412,6 +1442,11 @@ metafile = true
 [[files]]
 file = "mods/appleskin-6vok7cLb.pw.toml"
 hash = "3b127d18b1171614f6dde18583c81d2033692d500e698db07cf6d447b578afe2"
+metafile = true
+
+[[files]]
+file = "mods/aquariuslibs-1.2.0-neoforge-26.3.0.1.pw.toml"
+hash = "c524c904f9fa76fd656fe88f2a1275d07070e8a6a5c2c34ca97fb2284fcdce0f"
 metafile = true
 
 [[files]]
@@ -1532,6 +1567,11 @@ metafile = true
 [[files]]
 file = "mods/curios-W912LxOl.pw.toml"
 hash = "310b568ec03bfeb75f324dca0ff653caa59092e1560205fc8648f6820ff4ddb7"
+metafile = true
+
+[[files]]
+file = "mods/dhturbo-neoforge-26.3-1.6.0.pw.toml"
+hash = "97950d8a4008b0db726c46c65b69ec67b3b40018d5d4a78a7bebd425c8d350a2"
 metafile = true
 
 [[files]]
@@ -1715,6 +1755,11 @@ hash = "b8113f5a7c12e3c1cee09ac676515d4b92aeae9b561aa3c889204a81bada900d"
 metafile = true
 
 [[files]]
+file = "mods/hoverboards-neoforge-26.3-1.0.0.pw.toml"
+hash = "faebd95760d027f02758421f96c2a4894bb181759f815c3a504dd24026be84af"
+metafile = true
+
+[[files]]
 file = "mods/hunters_return-26.3-33.3.0.pw.toml"
 hash = "a2cd3dab77232557e595d71549f43d493d6970d0af94dc83ef8ae6862796119d"
 metafile = true
@@ -1735,6 +1780,11 @@ hash = "d5b1ef95e5be548da170e2a57a0f25b75938541ed125f0741b4956320e473001"
 metafile = true
 
 [[files]]
+file = "mods/immersivepanoramas-neoforge-1.1-26.3.pw.toml"
+hash = "27d06e24e9ee7324433948a77c17c491c610cb90e826d06d52c2dc5e54ea47d2"
+metafile = true
+
+[[files]]
 file = "mods/ingeniumapi-1.0.2-NEOFORGE-MC-26.X.pw.toml"
 hash = "3583238c21f3c1e6bbde7d7956f77c36f1d4b7a6dbbe181b7105834120847d74"
 metafile = true
@@ -1747,6 +1797,11 @@ metafile = true
 [[files]]
 file = "mods/item_descriptions-2.8.5+26.2-neoforge.pw.toml"
 hash = "19649a40adec42e8acc496986f44c08b0d215c2199432f452e38c700a368bdbe"
+metafile = true
+
+[[files]]
+file = "mods/jacaranda-1.0.4-neoforge-26.3.pw.toml"
+hash = "4bfd4a80a65d654fbefbb777f7008fe706af015b6f3cc6c81445f1daa81749c8"
 metafile = true
 
 [[files]]
@@ -1920,6 +1975,11 @@ hash = "ccf3bf53b942a15f29229034d5ff48944c8abff43202c64e8b6bec68afca1357"
 metafile = true
 
 [[files]]
+file = "mods/punchy-moves-1.0.9-neoforge-26.3.pw.toml"
+hash = "8804a6de00837e25523227058a31e628d0170ce5e8ba434ce8f8cc3a4c18e552"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib-b5xCcNsb.pw.toml"
 hash = "65ea523df34d337b41397a54ce94425e73bb7365a3471aee0078cfb5fbbb62c7"
 metafile = true
@@ -2050,6 +2110,11 @@ hash = "8e752624d523d9a551568017ff5d423e8af9cd28c850b8576a61d28ee33b4d98"
 metafile = true
 
 [[files]]
+file = "mods/spatial-gui-1.11.1+26.3-neoforge.pw.toml"
+hash = "99d1e4050d256d8d976d22d0cb2c8867dddc48fabbdc5b6d0f60784a03063383"
+metafile = true
+
+[[files]]
 file = "mods/spice-of-life-onion-Rso1z4Mj.pw.toml"
 hash = "d49cdd5268e0dbc9bf4f6f5d95fb6bc64efcdc38a6b5d7183b063dd5b17c917a"
 metafile = true
@@ -2160,6 +2225,11 @@ hash = "fec9b2a835abd3265faa2bed8c67667acd40fcc4dcca0bab1d4b95f7cada0dc3"
 metafile = true
 
 [[files]]
+file = "mods/wanderingtraveler-neoforge-1.6.0.pw.toml"
+hash = "bdbf3a3571a66b5ec4f03ca3dad856586bfeeb48d28ffb6efc3a70e221a48e05"
+metafile = true
+
+[[files]]
 file = "mods/yet_another_config_lib_v3-3.9.7+26.3-neoforge.pw.toml"
 hash = "48822a437498d7d047651c9f673b5dc346b9f9113f1b9c5b722d93e2c244e9f6"
 metafile = true
@@ -2192,6 +2262,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/FA+Player-v1.1.pw.toml"
 hash = "da16d0b346720feb4bcc9a3dd2503a94daf15315be2c6701cf3f2b269daf7550"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Fluid & Foolish 1.0.1.pw.toml"
+hash = "c700e3c92954ef9c3b8e31f9357baf2877e92d3f467ad7066c19e98c30378330"
 metafile = true
 
 [[files]]

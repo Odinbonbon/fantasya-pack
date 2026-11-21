@@ -1,0 +1,8 @@
+name = "animalgarden-commonraccoon-1.0.0-neoforge-26.3.0.7"
+filename = "animalgarden-commonraccoon-1.0.0-neoforge-26.3.0.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/U8RR1qbb/versions/Mo5U042r/animalgarden-commonraccoon-1.0.0-neoforge-26.3.0.7.jar"
+hash-format = "sha512"
+hash = "6a08d705831301f94e7cc61452d84ceb74e67630294b099711df1cece9802396e862014431294d7f5633b07a812e4b7e1ee6c08e3e42947ebcb72e893a0cf109"

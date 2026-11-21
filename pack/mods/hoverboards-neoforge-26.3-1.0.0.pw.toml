@@ -1,0 +1,8 @@
+name = "hoverboards-neoforge-26.3-1.0.0"
+filename = "hoverboards-neoforge-26.3-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hFwdrY43/versions/PXnqlezm/hoverboards-neoforge-26.3-1.0.0.jar"
+hash-format = "sha512"
+hash = "9ad9890d3c89a35c97edea9f691b149fd0d69aa4d72b19498c6c80e412464340dd677e2ffb04cc4b2372046200673ed163ae2f939af3adc07c315172208ed9ee"

@@ -1,0 +1,8 @@
+name = "animalgarden-capybara-1.0.0-neoforge-26.3.0.1"
+filename = "animalgarden-capybara-1.0.0-neoforge-26.3.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Sgv9MA7q/versions/Dql9auYf/animalgarden-capybara-1.0.0-neoforge-26.3.0.1.jar"
+hash-format = "sha512"
+hash = "b2a1fa1e996b988d0763abfa2e889f9fcbb4b2a642e066930466e4230b56fabe7f006ae5d6bf0254e855ce0c9fbda1d787c2776466cd2c1198d268376d84ddfb"
