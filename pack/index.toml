@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "59bfbdb20a60f386be06e6416904bbe9d0a027935f9c262ab2b8e12a4433c80f"
+hash = "3bfca0cfeb0cde3ce356e300c91a8f58a2c5d3173df010041799147905837ec6"
 
 [[files]]
 file = "config/advancednetherite-client.toml"

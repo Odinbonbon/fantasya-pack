@@ -1,6 +1,10 @@
-# Für das nächste Pack-Update (nach 0.1.14)
+# Für das nächste Pack-Update (nach 0.1.15)
 
 (noch nichts offen)
+
+## Erledigt in 0.1.15 (21.11.)
+- config/DistantHorizons.toml: numberOfThreads 8 -> 4, threadRunTimeRatio 1.0 -> 0.5 (Messung 3440x1440 mit Solas: 1%-low 23-48 -> 42-56 fps).
+  Die Datei ist nicht preserve: eigene DH-Einstellungen der Spieler werden bei jedem Update ueberschrieben.
 
 ## Erledigt in 0.1.14 (21.11.)
 - Fantasya 0.1.14: Lock-Minispiele langsamer (Dietrich, Runenfolge, Draehte), jeder Fehlversuch senkt die Beute der Truhe um eine Stufe.
