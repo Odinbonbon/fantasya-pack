@@ -1,0 +1,8 @@
+name = "Aquaculture-26.3-2.11.3"
+filename = "Aquaculture-26.3-2.11.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Vl1uNAuy/versions/h4jCizmw/Aquaculture-26.3-2.11.3.jar"
+hash-format = "sha512"
+hash = "c3e4efc9de0c1468a772dd63bb16b902bf0d4e20a9b194e49a2f0aada9a64feeb93a38e3c1ef51d86c2f731e9adca8c4338394a11306fa57e79654792b3f6b32"

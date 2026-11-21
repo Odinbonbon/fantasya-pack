@@ -1250,6 +1250,11 @@ hash = "86c39e5f8ca47fafd6c7a4023f3b99a97125616b5e08e9d22776645259be46e8"
 metafile = true
 
 [[files]]
+file = "mods/Aquaculture-26.3-2.11.3.pw.toml"
+hash = "0e8c88478056870ff8d2da1d1e365485a18aa925bbc59ca63d0549cb00ad69f2"
+metafile = true
+
+[[files]]
 file = "mods/AttributeFix-neoforge-MC26.3-26.3.0.1.pw.toml"
 hash = "1e6abc3d8152f34f99f45bb3b59dd5446ea38848274d3bbbd29341bb88c1d369"
 metafile = true
@@ -1437,6 +1442,11 @@ metafile = true
 [[files]]
 file = "mods/balm-QcBcRJZb.pw.toml"
 hash = "1166e7bb188ef233095ed1a8c463d009a02abfc0093dc7544ad31cde581642c5"
+metafile = true
+
+[[files]]
+file = "mods/baubley-heart-canisters-26.3-1.9.0.pw.toml"
+hash = "8a47cb56fe2657f7e1915890220f91208fc72bceac3e33dd703133fcd7ea6a79"
 metafile = true
 
 [[files]]

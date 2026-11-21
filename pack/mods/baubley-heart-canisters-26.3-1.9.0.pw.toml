@@ -1,0 +1,8 @@
+name = "baubley-heart-canisters-26.3-1.9.0"
+filename = "baubley-heart-canisters-26.3-1.9.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fPdy2fCM/versions/Pmzqg7Jk/baubley-heart-canisters-26.3-1.9.0.jar"
+hash-format = "sha512"
+hash = "a1e5eea36a1a0da3134b6862baa9ddcb499fce23635d7d3ba0006bd372abfd08cbd05637229a60aee8605c5f28f348ebb638ecbea97bdcf2c4a454cde6f3f0d8"

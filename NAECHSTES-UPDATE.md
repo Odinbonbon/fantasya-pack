@@ -3,6 +3,7 @@
 (noch nichts offen)
 
 ## Erledigt in 0.1.12 (19.11.)
+- 21.11. nachgeschoben: Aquaculture 2.11.3 + Baubley Heart Canisters 26.3-1.9.0 (Ladetest Server ok). Powah 9.0.0-alpha NICHT: braucht GuideME 26.3.7 und das NeoForge >= 26.3.0.100 (Pack .99).
 - 21.11. nachgeschoben: Gefaehrten 1.2.5 (Vorgabe-Modell gemma3:4b, alte Configs werden einmalig umgestellt; 1.2.4: startet Ollama selbst + laedt fehlendes Modell, stumme Mikrofone werden uebersprungen).
 - M-AUFTEILUNG Teil 1: Fantasya Deko als eigene Jar fantasya_deco-1.0.0 (Namensraum fantasya_deco wie vorher,
   Werkbank-Alias fantasya:decor_bench), Fantasya 0.1.12 (Kern ohne Deko). Gefaehrten 1.2.3.
