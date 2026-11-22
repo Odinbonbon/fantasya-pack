@@ -1,10 +1,17 @@
-# Für das nächste Pack-Update (nach 0.1.16)
+# Für das nächste Pack-Update (nach 0.1.17)
 
 - Immersive Overlays (mods/immersiveoverlays-1.8.7+26.3-neoforge.pw.toml): sollte raus, weil doppelt zu Diorama. Diorama ist seit
   0.1.16 weg -> Nutzer fragen, ob es mit JourneyMap bleiben soll.
 - NEU: Tastenwahl 1.0.0 (eigene Mod, D:\Mc mod projekt	astenwahl, build/libs/tastenwahl-1.0.0.jar) - Tastenmenue beim ersten
   Weltbetreten, nur Client. Erst nach Spieltest des Nutzers ins Pack; Hosting wie Gefaehrten-Jar.
 - config/punchy/punchy_config.json "spatialGuiCompat" kann auf false (Spatial GUI ist raus, harmlos).
+
+## Erledigt in 0.1.17 (22.11.)
+- Fantasya 0.1.15: Weltgen-Schalter in config/fantasya-worldgen.properties (NEU im Pack, nicht preserve): vanilla_overhaul=false
+  (Vanilla-Biome und -Baeume wie in Vanilla, Landmarken/Findlinge/Wildpflanzen/Steinadern nur in eigenen Biomen) und own_buildings=false
+  (nur die drei Boss-Schaechte generieren). Eigene Biome, Erze, Boss-Arenen bleiben. Nur neue Chunks. Nutzerwunsch "erstmal aus" -
+  zum Wiedereinschalten Wert auf true (Pack-Config aendern, sonst ueberschreibt das Update die Datei wieder).
+  Folge: Wildpflanzen (Sunroot, Cassava ...) und Vanilla-Biom-Steinsorten gibt es in neuen Chunks nur noch in eigenen Biomen bzw. gar nicht.
 
 ## Erledigt in 0.1.16 (22.11.)
 - RAUS Distant Horizons 3.3.4 + DH Turbo (+ config/DistantHorizons.toml): Nutzer hatte 100 fps im Stehen, 30 beim Laufen. Log: DH Turbo

@@ -721,6 +721,10 @@ file = "config/fantasya-volcano.toml"
 hash = "cf1f9d2756f58f12ea4a325b30d4c01b9cf4f940bbaba30ebe434af912175636"
 
 [[files]]
+file = "config/fantasya-worldgen.properties"
+hash = "f4bc1ac7e55d3c576db536fe7e0f0691d585233c3d119ddaf90d1916373d976c"
+
+[[files]]
 file = "config/ferritecore-mixin.toml"
 hash = "f5659957a2583f18c9c45c2053e3c3c84022499555c30ed54fa4d36e7bca3ad5"
 
@@ -1681,8 +1685,8 @@ hash = "2de00dbde0b240c082b9c548369d5bc86b83776dae8b7101402b33419a440184"
 metafile = true
 
 [[files]]
-file = "mods/fantasya-0.1.14.pw.toml"
-hash = "44c8b51c54779c2cb52948f9e26458cf2e4d685c830d8bea96343d84a76a0622"
+file = "mods/fantasya-0.1.15.pw.toml"
+hash = "d69bc5299d087f6768f60960c54e249b888b7e72942dd8245bbe897f6afefb7b"
 metafile = true
 
 [[files]]
