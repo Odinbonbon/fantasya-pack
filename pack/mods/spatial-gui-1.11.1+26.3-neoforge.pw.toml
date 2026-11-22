@@ -1,8 +1,0 @@
-name = "spatial-gui-1.11.1+26.3-neoforge"
-filename = "spatial-gui-1.11.1+26.3-neoforge.jar"
-side = "client"
-
-[download]
-url = "https://cdn.modrinth.com/data/zLBn2IE4/versions/lZ07Gayx/spatial-gui-1.11.1%2B26.3-neoforge.jar"
-hash-format = "sha512"
-hash = "a040b5f310da114a3b4e37645412a191152d87c9c6743e1c2bf2eef3c5d4a80ed446aa409f31ea626900ef2025e03235cf5c1ed199aa12c94a175da261881d9f"

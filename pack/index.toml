@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/DistantHorizons.toml"
-hash = "3bfca0cfeb0cde3ce356e300c91a8f58a2c5d3173df010041799147905837ec6"
-
-[[files]]
 file = "config/advancednetherite-client.toml"
 hash = "f8c07c75bb06a3cca5c10a7bca924e96c2aa273b679f9cc1fa961ac50001977b"
 
@@ -857,6 +853,10 @@ file = "config/jewelry/villages.json"
 hash = "3a0ad1c6bf844e60952867bbb67ebac157ce720a9904362b4a26d6048096a5f8"
 
 [[files]]
+file = "config/journeymap-synced.toml"
+hash = "914e767b44a8e0504767fa60bd1e3779259f6363afb299ed4282b9001f7db61b"
+
+[[files]]
 file = "config/lithium.properties"
 hash = "6cf6f83720071fd1657c8e79b357caf68d40f410ae123e5f922483eb1d1d25be"
 
@@ -1276,11 +1276,6 @@ hash = "8846d26f4e85ed8a1a8908e50948d4154dc3c36a6e51a30284a33b9094a5f390"
 metafile = true
 
 [[files]]
-file = "mods/DistantHorizons-3.3.4-26.3-fabric-neoforge.pw.toml"
-hash = "83230f4eeb4589a7cc91763c91aba3609437fc239b9d155e218c05b3d0ef0fd7"
-metafile = true
-
-[[files]]
 file = "mods/DoAnotherBarrelRoll-3.8.2+26.3.pw.toml"
 hash = "a6fbc86030f504c5f521235b943d1b788d1ce6ec1ac348a459da4d82cc56ecbc"
 metafile = true
@@ -1318,11 +1313,6 @@ metafile = true
 [[files]]
 file = "mods/ImmersiveThunder-Reforged-neoforge-26.3-1.3.8.pw.toml"
 hash = "718122ff63920b7e205a1d739eb7da7323311f296dfddc475820bb6a5766f232"
-metafile = true
-
-[[files]]
-file = "mods/InventoryProfilesNext-neoforge-26.3-2.3.8.pw.toml"
-hash = "f035d028d45fc841bbfb1afacf0ebf819f7e3acc9797fd870f5ee013021d9e7b"
 metafile = true
 
 [[files]]
@@ -1596,16 +1586,6 @@ hash = "fab0a0394a526c4d04f8b06b2b86cbc0aabb395be86bb8767a7dc5dc22cc5392"
 metafile = true
 
 [[files]]
-file = "mods/dhturbo-neoforge-26.3-1.6.0.pw.toml"
-hash = "97950d8a4008b0db726c46c65b69ec67b3b40018d5d4a78a7bebd425c8d350a2"
-metafile = true
-
-[[files]]
-file = "mods/diorama-0.11.0+neoforge-26.3.pw.toml"
-hash = "3ea9867fdb4323ed2e4faadaf019927517d587c6de64b67ad2e25909879a54e9"
-metafile = true
-
-[[files]]
 file = "mods/dragonkind-evolved-1.15.pw.toml"
 hash = "a8332cb178998f3721d15537869d43974967341406a6c9a3c86d244317ee90ce"
 metafile = true
@@ -1861,13 +1841,13 @@ hash = "2c17267f95a5686f56ea7faa71005d4cc1899dedd8024c50ff84a3b4340be31a"
 metafile = true
 
 [[files]]
-file = "mods/letmedespawn-neoforge-26.3-1.26.11.1.pw.toml"
-hash = "a6835bc2644de5390ea374bc86dde9795e188c32eb6e0f90e8b77bf0fb9ba21e"
+file = "mods/journeymap-9UsAGltN.pw.toml"
+hash = "8e22d1e2d0d3768608cfbb2bc444d921b0329ec7177496316371d3682aa848e2"
 metafile = true
 
 [[files]]
-file = "mods/libIPN-neoforge-26.3-6.9.0.pw.toml"
-hash = "ac4e769aa6be315336a3b763d3947caf29dbe8f6a368de47dbb519720c45f92c"
+file = "mods/letmedespawn-neoforge-26.3-1.26.11.1.pw.toml"
+hash = "a6835bc2644de5390ea374bc86dde9795e188c32eb6e0f90e8b77bf0fb9ba21e"
 metafile = true
 
 [[files]]
@@ -2158,11 +2138,6 @@ metafile = true
 [[files]]
 file = "mods/spark-1.10.187-neoforge.pw.toml"
 hash = "8e752624d523d9a551568017ff5d423e8af9cd28c850b8576a61d28ee33b4d98"
-metafile = true
-
-[[files]]
-file = "mods/spatial-gui-1.11.1+26.3-neoforge.pw.toml"
-hash = "99d1e4050d256d8d976d22d0cb2c8867dddc48fabbdc5b6d0f60784a03063383"
 metafile = true
 
 [[files]]

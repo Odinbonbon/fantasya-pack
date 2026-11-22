@@ -1,6 +1,18 @@
-# Für das nächste Pack-Update (nach 0.1.15)
+# Für das nächste Pack-Update (nach 0.1.16)
 
-(noch nichts offen)
+- Immersive Overlays (mods/immersiveoverlays-1.8.7+26.3-neoforge.pw.toml): sollte raus, weil doppelt zu Diorama. Diorama ist seit
+  0.1.16 weg -> Nutzer fragen, ob es mit JourneyMap bleiben soll.
+- NEU: Tastenwahl 1.0.0 (eigene Mod, D:\Mc mod projekt	astenwahl, build/libs/tastenwahl-1.0.0.jar) - Tastenmenue beim ersten
+  Weltbetreten, nur Client. Erst nach Spieltest des Nutzers ins Pack; Hosting wie Gefaehrten-Jar.
+- config/punchy/punchy_config.json "spatialGuiCompat" kann auf false (Spatial GUI ist raus, harmlos).
+
+## Erledigt in 0.1.16 (22.11.)
+- RAUS Distant Horizons 3.3.4 + DH Turbo (+ config/DistantHorizons.toml): Nutzer hatte 100 fps im Stehen, 30 beim Laufen. Log: DH Turbo
+  threads = 0 = 2/3 der Kerne (die 4-Thread-Bremse aus 0.1.15 galt nur fuer DH), Streams Reflowing plante Fluesse fuer die ganze Ferne.
+- JourneyMap 6.0.10 zurueck (+ config/journeymap-synced.toml), Diorama raus (Nutzerwunsch).
+- RAUS Spatial GUI, Inventory Profiles Next + libIPN (Spieltest 21.11.).
+- Ohne Ladetest veroeffentlicht (Nutzer: "jetzt sofort"). Dev-Client stuerzte am 21.11. mit Iris/Solas OHNE DH im Schattendurchgang ab;
+  die Nutzer-Instanz lief am 18.11. und 21.11. nachmittags mit Solas ohne DH ohne Absturz.
 
 ## Erledigt in 0.1.15 (21.11.)
 - config/DistantHorizons.toml: numberOfThreads 8 -> 4, threadRunTimeRatio 1.0 -> 0.5 (Messung 3440x1440 mit Solas: 1%-low 23-48 -> 42-56 fps).
